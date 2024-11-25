@@ -44,9 +44,8 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
   Example table:
   | Variability Factor | Possible Values     | Relevance                                   |
   |--------------------|---------------------|--------------------------------------------|
-  | Random Seed        | [0, 42, 123]       | Impacts consistency of random processes    |
-  | Hardware           | CPU, GPU (NVIDIA)  | May affect computation time and results    |
-  | Dataset Version    | v1.0, v1.1         | Ensures comparability across experiments   |
+  | EXAMPLE Random Seed        | [0, 42, 123]       | Impacts consistency of random processes    |
+  | Statistical Tests for Assessing Differences Between Home and Away Matches | | Alternative tests provide a broader view of the data’s characteristics which may affect the conclusions. |
 
 - **Constraints Across Factors**:  
   - Document any constraints or interdependencies among variability factors.  
@@ -73,8 +72,8 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
      ```
 
 2. **Presentation and Analysis of Results**  
-   - Include results in text, tables, or figures.
-   - Analyze and compare with the original study's findings.
+   - **Changing Statistical Tests for Assessing Differences Between Home and Away Matches:**
+   In the given scenario, the Wilcoxon Signed-Rank test was used because it is a non-parametric test, ideal for situations where data may not follow a normal distribution. For the use of p-values, they quantified the evidence against the null hypothesis (e.g., no difference between home and away performance) and small p-values (e.g., <0.05) indicated statistically significant differences, suggesting that observed results are unlikely due to random chance.
 
 ### Does It Confirm the Original Study?
 - Summarize the extent to which the replication supports the original study’s conclusions.
