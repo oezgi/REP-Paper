@@ -2,5 +2,5 @@ pandas
 matplotlib
 jupyter
 nbconvert
-scipy
-numpy
+scipy==1.6
+numpy>=1.16.5,<1.20

@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:latest
+FROM jupyter/base-notebook:python-3.9
 
 # Set the working directory
 WORKDIR /home/jovyan/work
