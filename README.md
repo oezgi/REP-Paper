@@ -31,7 +31,7 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
     
 ### Encountered Issues and Improvements
 - Report any challenges, errors, or deviations from the original study.
-- Describe how these issues were resolved or improved, if applicable.
+- In Wilcoxon and MannWhitneyU, instead of using "two-sided", in the original study, "less" was used. Different results in p-value because of the version of sciPy used.
 
 ### Is the Original Study Reproducible?
 - Summarize the success or failure of reproducing the study.

@@ -1,0 +1,1739 @@
+team_name,season,h_a,xG,match_round,GF,GA,GD
+de Dortmund,2023,h,2.1,Final,0,2,-2
+es Real Madrid,2023,a,1.1,Final,2,0,2
+de Bayern Munich,2023,a,0.4,Semi-finals Leg 2,1,2,-1
+es Real Madrid,2023,h,2.8,Semi-finals Leg 2,2,1,1
+fr Paris S-G,2023,h,3.0,Semi-finals Leg 2,0,1,-1
+de Dortmund,2023,a,0.7,Semi-finals Leg 2,1,0,1
+de Dortmund,2023,h,1.7,Semi-finals Leg 1,1,0,1
+fr Paris S-G,2023,a,1.7,Semi-finals Leg 1,0,1,-1
+es Real Madrid,2023,a,1.9,Semi-finals Leg 1,2,2,0
+de Bayern Munich,2023,h,1.6,Semi-finals Leg 1,2,2,0
+eng Manchester City,2023,h,2.7,Quarter-finals Leg 2,1,1,0
+es Real Madrid,2023,a,1.4,Quarter-finals Leg 2,1,1,0
+eng Arsenal,2023,a,0.4,Quarter-finals Leg 2,0,1,-1
+de Bayern Munich,2023,h,1.3,Quarter-finals Leg 2,1,0,1
+es Barcelona,2023,h,1.1,Quarter-finals Leg 2,1,4,-3
+es Atlético Madrid,2023,a,1.9,Quarter-finals Leg 2,2,4,-2
+de Dortmund,2023,h,1.5,Quarter-finals Leg 2,4,2,2
+fr Paris S-G,2023,a,2.3,Quarter-finals Leg 2,4,1,3
+fr Paris S-G,2023,h,1.2,Quarter-finals Leg 1,2,3,-1
+de Dortmund,2023,a,0.9,Quarter-finals Leg 1,1,2,-1
+es Atlético Madrid,2023,h,2.2,Quarter-finals Leg 1,2,1,1
+es Barcelona,2023,a,1.9,Quarter-finals Leg 1,3,2,1
+de Bayern Munich,2023,a,1.9,Quarter-finals Leg 1,2,2,0
+es Real Madrid,2023,h,0.7,Quarter-finals Leg 1,3,3,0
+eng Arsenal,2023,h,1.0,Quarter-finals Leg 1,2,2,0
+eng Manchester City,2023,a,0.8,Quarter-finals Leg 1,3,3,0
+nl PSV Eindhoven,2023,a,1.5,Rd of 16 Leg 2,0,2,-2
+it Inter,2023,a,1.6,Rd of 16 Leg 2,1,2,-1
+es Atlético Madrid,2023,h,2.7,Rd of 16 Leg 2,2,1,1
+de Dortmund,2023,h,1.5,Rd of 16 Leg 2,2,0,2
+eng Arsenal,2023,h,0.9,Rd of 16 Leg 2,1,0,1
+es Barcelona,2023,h,2.7,Rd of 16 Leg 2,3,1,2
+it Napoli,2023,a,1.3,Rd of 16 Leg 2,1,3,-2
+pt Porto,2023,a,0.5,Rd of 16 Leg 2,0,1,-1
+eng Manchester City,2023,h,0.8,Rd of 16 Leg 2,3,1,2
+es Real Madrid,2023,h,0.8,Rd of 16 Leg 2,1,1,0
+de RB Leipzig,2023,a,1.0,Rd of 16 Leg 2,1,1,0
+dk FC Copenhagen,2023,a,1.2,Rd of 16 Leg 2,1,3,-2
+fr Paris S-G,2023,a,1.4,Rd of 16 Leg 2,2,1,1
+de Bayern Munich,2023,h,3.5,Rd of 16 Leg 2,3,0,3
+it Lazio,2023,a,0.4,Rd of 16 Leg 2,0,3,-3
+es Real Sociedad,2023,h,0.9,Rd of 16 Leg 2,1,2,-1
+pt Porto,2023,h,1.0,Rd of 16 Leg 1,1,0,1
+it Napoli,2023,h,0.9,Rd of 16 Leg 1,1,1,0
+eng Arsenal,2023,a,0.4,Rd of 16 Leg 1,0,1,-1
+es Barcelona,2023,a,0.7,Rd of 16 Leg 1,1,1,0
+it Inter,2023,h,2.3,Rd of 16 Leg 1,1,0,1
+es Atlético Madrid,2023,a,0.6,Rd of 16 Leg 1,0,1,-1
+nl PSV Eindhoven,2023,h,1.6,Rd of 16 Leg 1,1,1,0
+de Dortmund,2023,a,0.9,Rd of 16 Leg 1,1,1,0
+es Real Sociedad,2023,a,0.7,Rd of 16 Leg 1,0,2,-2
+fr Paris S-G,2023,h,1.2,Rd of 16 Leg 1,2,0,2
+de Bayern Munich,2023,a,1.1,Rd of 16 Leg 1,0,1,-1
+it Lazio,2023,h,1.6,Rd of 16 Leg 1,1,0,1
+es Real Madrid,2023,a,1.4,Rd of 16 Leg 1,1,0,1
+de RB Leipzig,2023,h,1.4,Rd of 16 Leg 1,0,1,-1
+dk FC Copenhagen,2023,h,0.3,Rd of 16 Leg 1,1,3,-2
+eng Manchester City,2023,a,3.3,Rd of 16 Leg 1,3,1,2
+es Barcelona,2023,a,1.1,Group,2,3,-1
+nl Feyenoord,2023,a,2.1,Group,1,2,-1
+de Dortmund,2023,h,1.4,Group,1,1,0
+de RB Leipzig,2023,h,0.7,Group,2,1,1
+rs Red Star,2023,h,1.1,Group,2,3,-1
+eng Manchester City,2023,a,1.4,Group,3,2,1
+it Milan,2023,a,1.9,Group,2,1,1
+ch Young Boys,2023,a,1.5,Group,1,2,-1
+pt Porto,2023,h,2.7,Group,5,3,2
+es Atlético Madrid,2023,h,1.3,Group,2,0,2
+it Lazio,2023,a,0.9,Group,0,2,-2
+be Antwerp,2023,h,1.7,Group,3,2,1
+sct Celtic,2023,h,2.2,Group,2,1,1
+ua Shakhtar,2023,a,1.5,Group,3,5,-2
+fr Paris S-G,2023,a,2.8,Group,1,1,0
+eng Newcastle Utd,2023,h,1.8,Group,1,2,-1
+de Bayern Munich,2023,a,1.2,Group,1,0,1
+es Sevilla,2023,a,1.3,Group,1,2,-1
+at RB Salzburg,2023,h,1.6,Group,1,3,-2
+nl PSV Eindhoven,2023,h,1.3,Group,1,1,0
+es Real Sociedad,2023,a,0.7,Group,0,0,0
+pt Benfica,2023,a,3.1,Group,3,1,2
+it Inter,2023,h,0.7,Group,0,0,0
+it Napoli,2023,h,1.4,Group,2,0,2
+fr Lens,2023,h,1.4,Group,2,1,1
+de Union Berlin,2023,h,1.1,Group,2,3,-1
+dk FC Copenhagen,2023,h,1.3,Group,1,0,1
+tr Galatasaray,2023,a,1.4,Group,0,1,-1
+es Real Madrid,2023,a,2.9,Group,3,2,1
+eng Arsenal,2023,a,1.0,Group,1,1,0
+pt Braga,2023,a,1.0,Group,0,2,-2
+eng Manchester Utd,2023,h,0.3,Group,0,1,-1
+tr Galatasaray,2023,h,1.5,Group,3,3,0
+es Real Madrid,2023,h,2.8,Group,4,2,2
+at RB Salzburg,2023,a,0.6,Group,0,0,0
+eng Arsenal,2023,h,2.6,Group,6,0,6
+nl PSV Eindhoven,2023,a,2.2,Group,3,2,1
+it Inter,2023,a,3.0,Group,3,3,0
+es Real Sociedad,2023,h,1.3,Group,0,0,0
+fr Lens,2023,a,0.4,Group,0,6,-6
+pt Braga,2023,h,1.8,Group,1,1,0
+de Bayern Munich,2023,h,0.7,Group,0,0,0
+dk FC Copenhagen,2023,a,0.7,Group,0,0,0
+de Union Berlin,2023,a,0.8,Group,1,1,0
+pt Benfica,2023,h,1.6,Group,3,3,0
+eng Manchester Utd,2023,a,1.6,Group,3,3,0
+es Sevilla,2023,h,1.8,Group,2,3,-1
+it Napoli,2023,a,1.4,Group,2,4,-2
+it Milan,2023,h,2.1,Group,1,3,-2
+be Antwerp,2023,a,1.1,Group,0,1,-1
+nl Feyenoord,2023,h,1.1,Group,1,3,-2
+es Barcelona,2023,h,1.8,Group,2,1,1
+sct Celtic,2023,a,0.4,Group,0,2,-2
+eng Manchester City,2023,h,1.8,Group,3,2,1
+ch Young Boys,2023,h,1.3,Group,2,0,2
+fr Paris S-G,2023,h,4.4,Group,1,1,0
+pt Porto,2023,a,1.1,Group,1,2,-1
+es Atlético Madrid,2023,a,1.3,Group,3,1,2
+rs Red Star,2023,a,1.8,Group,0,2,-2
+ua Shakhtar,2023,h,1.3,Group,1,0,1
+de RB Leipzig,2023,a,0.5,Group,2,3,-1
+it Lazio,2023,h,2.3,Group,2,0,2
+eng Newcastle Utd,2023,a,1.3,Group,1,1,0
+de Dortmund,2023,a,1.8,Group,3,1,2
+eng Manchester Utd,2023,a,3.0,Group,3,4,-1
+es Real Sociedad,2023,h,3.3,Group,3,1,2
+at RB Salzburg,2023,h,0.8,Group,0,1,-1
+nl PSV Eindhoven,2023,h,0.8,Group,1,0,1
+it Napoli,2023,h,1.7,Group,1,1,0
+it Inter,2023,a,2.0,Group,1,0,1
+es Real Madrid,2023,h,3.2,Group,3,0,3
+eng Arsenal,2023,h,1.5,Group,2,0,2
+pt Benfica,2023,a,0.8,Group,1,3,-2
+tr Galatasaray,2023,a,0.7,Group,1,2,-1
+fr Lens,2023,a,1.1,Group,0,1,-1
+de Union Berlin,2023,a,1.1,Group,1,1,0
+es Sevilla,2023,a,0.0,Group,0,2,-2
+pt Braga,2023,a,1.4,Group,0,3,-3
+de Bayern Munich,2023,h,2.5,Group,2,1,1
+dk FC Copenhagen,2023,h,2.2,Group,4,3,1
+pt Porto,2023,h,2.2,Group,2,0,2
+eng Newcastle Utd,2023,a,0.6,Group,0,2,-2
+nl Feyenoord,2023,a,1.4,Group,0,1,-1
+it Milan,2023,h,1.4,Group,2,1,1
+eng Manchester City,2023,h,3.4,Group,3,0,3
+de RB Leipzig,2023,a,2.3,Group,2,1,1
+es Atlético Madrid,2023,h,2.9,Group,6,0,6
+sct Celtic,2023,a,0.0,Group,0,6,-6
+it Lazio,2023,h,1.1,Group,1,0,1
+es Barcelona,2023,a,0.9,Group,0,1,-1
+be Antwerp,2023,a,0.6,Group,0,2,-2
+ua Shakhtar,2023,h,0.9,Group,1,0,1
+fr Paris S-G,2023,a,1.5,Group,1,2,-1
+ch Young Boys,2023,a,0.0,Group,0,3,-3
+rs Red Star,2023,h,1.5,Group,1,2,-1
+de Dortmund,2023,h,1.4,Group,2,0,2
+nl Feyenoord,2023,h,2.1,Group,3,1,2
+rs Red Star,2023,a,1.0,Group,1,3,-2
+de Dortmund,2023,a,1.8,Group,1,0,1
+eng Newcastle Utd,2023,h,1.1,Group,0,1,-1
+es Barcelona,2023,h,2.6,Group,2,1,1
+it Milan,2023,a,0.6,Group,0,3,-3
+sct Celtic,2023,h,0.9,Group,2,2,0
+pt Porto,2023,a,1.3,Group,4,1,3
+ch Young Boys,2023,h,0.4,Group,1,3,-2
+ua Shakhtar,2023,a,0.9,Group,1,2,-1
+de RB Leipzig,2023,h,3.1,Group,3,1,2
+be Antwerp,2023,h,0.7,Group,1,4,-3
+fr Paris S-G,2023,h,1.3,Group,3,0,3
+eng Manchester City,2023,a,4.2,Group,3,1,2
+it Lazio,2023,a,2.3,Group,1,3,-2
+es Atlético Madrid,2023,a,2.1,Group,2,2,0
+nl PSV Eindhoven,2023,a,0.5,Group,1,1,0
+de Union Berlin,2023,h,0.4,Group,0,1,-1
+pt Benfica,2023,h,0.5,Group,0,1,-1
+fr Lens,2023,h,1.2,Group,1,1,0
+tr Galatasaray,2023,h,2.7,Group,1,3,-2
+it Inter,2023,h,2.3,Group,2,1,1
+es Real Sociedad,2023,a,0.9,Group,1,0,1
+es Sevilla,2023,h,0.8,Group,1,2,-1
+dk FC Copenhagen,2023,a,1.9,Group,0,1,-1
+it Napoli,2023,a,0.2,Group,1,0,1
+es Real Madrid,2023,a,0.9,Group,2,1,1
+eng Manchester Utd,2023,h,1.7,Group,1,0,1
+eng Arsenal,2023,a,1.9,Group,2,1,1
+pt Braga,2023,h,1.5,Group,1,2,-1
+at RB Salzburg,2023,a,0.5,Group,1,2,-1
+de Bayern Munich,2023,a,1.9,Group,3,1,2
+pt Porto,2023,h,0.7,Group,0,1,-1
+es Barcelona,2023,a,1.3,Group,1,0,1
+ch Young Boys,2023,a,2.6,Group,2,2,0
+fr Paris S-G,2023,a,0.9,Group,1,4,-3
+eng Newcastle Utd,2023,h,0.9,Group,4,1,3
+it Milan,2023,a,1.6,Group,0,0,0
+it Lazio,2023,a,0.7,Group,2,1,1
+de RB Leipzig,2023,h,0.5,Group,1,3,-2
+es Atlético Madrid,2023,h,0.8,Group,3,2,1
+nl Feyenoord,2023,a,2.4,Group,2,3,-1
+eng Manchester City,2023,a,2.2,Group,3,1,2
+be Antwerp,2023,h,1.8,Group,2,3,-1
+rs Red Star,2023,h,2.6,Group,2,2,0
+de Dortmund,2023,h,1.0,Group,0,0,0
+de RB Leipzig,2023,h,0.5,Group,1,3,-2
+de Dortmund,2023,h,1.0,Group,0,0,0
+tr Galatasaray,2023,a,2.6,Group,3,2,1
+it Inter,2023,h,3.8,Group,1,0,1
+es Real Madrid,2023,a,1.4,Group,3,2,1
+eng Arsenal,2023,a,1.5,Group,1,2,-1
+at RB Salzburg,2023,h,0.6,Group,0,2,-2
+es Real Sociedad,2023,a,1.2,Group,2,0,2
+pt Benfica,2023,a,0.3,Group,0,1,-1
+de Bayern Munich,2023,a,0.9,Group,2,1,1
+it Napoli,2023,h,1.9,Group,2,3,-1
+de Union Berlin,2023,h,2.0,Group,2,3,-1
+dk FC Copenhagen,2023,h,0.9,Group,1,2,-1
+eng Manchester Utd,2023,h,2.3,Group,2,3,-1
+nl PSV Eindhoven,2023,h,2.6,Group,2,2,0
+pt Braga,2023,a,1.2,Group,3,2,1
+es Sevilla,2023,a,1.3,Group,2,2,0
+fr Lens,2023,h,0.7,Group,2,1,1
+nl PSV Eindhoven,2023,a,0.5,Group,0,4,-4
+pt Braga,2023,h,1.4,Group,1,2,-1
+it Napoli,2023,a,1.7,Group,2,1,1
+eng Manchester Utd,2023,a,1.7,Group,3,4,-1
+at RB Salzburg,2023,a,3.3,Group,2,0,2
+tr Galatasaray,2023,h,1.1,Group,2,2,0
+es Real Madrid,2023,h,3.7,Group,1,0,1
+pt Benfica,2023,h,1.5,Group,0,2,-2
+es Sevilla,2023,h,0.8,Group,1,1,0
+it Inter,2023,a,0.5,Group,1,1,0
+es Real Sociedad,2023,h,1.3,Group,1,1,0
+dk FC Copenhagen,2023,a,0.6,Group,2,2,0
+de Bayern Munich,2023,h,2.2,Group,4,3,1
+fr Lens,2023,a,1.3,Group,1,1,0
+de Union Berlin,2023,a,0.2,Group,0,1,-1
+eng Arsenal,2023,h,2.3,Group,4,0,4
+fr Paris S-G,2023,h,2.4,Group,2,0,2
+ch Young Boys,2023,h,0.5,Group,1,3,-2
+ua Shakhtar,2023,h,0.5,Group,1,3,-2
+sct Celtic,2023,a,0.3,Group,0,2,-2
+be Antwerp,2023,a,0.3,Group,0,5,-5
+nl Feyenoord,2023,h,1.6,Group,2,0,2
+it Milan,2023,h,1.9,Group,0,0,0
+de RB Leipzig,2023,a,2.6,Group,3,1,2
+rs Red Star,2023,a,0.8,Group,1,3,-2
+pt Porto,2023,a,1.8,Group,3,1,2
+eng Newcastle Utd,2023,a,0.3,Group,0,0,0
+it Lazio,2023,h,1.2,Group,1,1,0
+es Barcelona,2023,h,2.8,Group,5,0,5
+de Dortmund,2023,a,0.7,Group,0,2,-2
+eng Manchester City,2023,h,4.1,Group,3,1,2
+es Atlético Madrid,2023,a,0.9,Group,1,1,0
+it Inter,2022,a,1.7,Final,0,1,-1
+eng Manchester City,2022,a,1.0,Final,1,0,1
+es Real Madrid,2022,a,0.5,Semi-finals Leg 2,0,4,-4
+eng Manchester City,2022,h,2.8,Semi-finals Leg 2,4,0,4
+it Milan,2022,a,0.5,Semi-finals Leg 2,0,1,-1
+it Inter,2022,h,1.0,Semi-finals Leg 2,1,0,1
+it Milan,2022,h,0.9,Semi-finals Leg 1,0,2,-2
+it Inter,2022,a,2.0,Semi-finals Leg 1,2,0,2
+eng Manchester City,2022,a,0.5,Semi-finals Leg 1,1,1,0
+es Real Madrid,2022,h,0.7,Semi-finals Leg 1,1,1,0
+pt Benfica,2022,a,0.7,Quarter-finals Leg 2,3,3,0
+eng Manchester City,2022,a,1.3,Quarter-finals Leg 2,1,1,0
+de Bayern Munich,2022,h,2.2,Quarter-finals Leg 2,1,1,0
+it Inter,2022,h,1.2,Quarter-finals Leg 2,3,3,0
+es Real Madrid,2022,a,1.8,Quarter-finals Leg 2,2,0,2
+it Napoli,2022,h,2.2,Quarter-finals Leg 2,1,1,0
+eng Chelsea,2022,h,1.9,Quarter-finals Leg 2,0,2,-2
+it Milan,2022,a,2.0,Quarter-finals Leg 2,1,1,0
+es Real Madrid,2022,h,2.3,Quarter-finals Leg 1,2,0,2
+eng Chelsea,2022,a,0.7,Quarter-finals Leg 1,0,2,-2
+it Milan,2022,h,1.1,Quarter-finals Leg 1,1,0,1
+it Napoli,2022,a,1.3,Quarter-finals Leg 1,0,1,-1
+de Bayern Munich,2022,a,0.9,Quarter-finals Leg 1,0,3,-3
+it Inter,2022,a,1.4,Quarter-finals Leg 1,2,0,2
+pt Benfica,2022,h,1.6,Quarter-finals Leg 1,0,2,-2
+eng Manchester City,2022,h,1.8,Quarter-finals Leg 1,3,0,3
+es Real Madrid,2022,h,2.2,Rd of 16 Leg 2,1,0,1
+de Eint Frankfurt,2022,a,1.1,Rd of 16 Leg 2,0,3,-3
+it Napoli,2022,h,2.7,Rd of 16 Leg 2,3,0,3
+eng Liverpool,2022,a,0.6,Rd of 16 Leg 2,0,1,-1
+de RB Leipzig,2022,a,0.6,Rd of 16 Leg 2,0,7,-7
+pt Porto,2022,h,1.7,Rd of 16 Leg 2,0,0,0
+it Inter,2022,a,0.5,Rd of 16 Leg 2,0,0,0
+eng Manchester City,2022,h,4.2,Rd of 16 Leg 2,7,0,7
+eng Tottenham,2022,h,0.5,Rd of 16 Leg 2,0,0,0
+de Bayern Munich,2022,h,1.7,Rd of 16 Leg 2,2,0,2
+fr Paris S-G,2022,a,1.1,Rd of 16 Leg 2,0,2,-2
+it Milan,2022,a,1.4,Rd of 16 Leg 2,0,0,0
+be Club Brugge,2022,a,0.9,Rd of 16 Leg 2,1,5,-4
+eng Chelsea,2022,h,2.0,Rd of 16 Leg 2,2,0,2
+pt Benfica,2022,h,3.3,Rd of 16 Leg 2,5,1,4
+de Dortmund,2022,a,0.8,Rd of 16 Leg 2,0,2,-2
+pt Porto,2022,a,1.6,Rd of 16 Leg 1,0,1,-1
+eng Manchester City,2022,a,1.2,Rd of 16 Leg 1,1,1,0
+it Inter,2022,h,1.5,Rd of 16 Leg 1,1,0,1
+de RB Leipzig,2022,h,0.8,Rd of 16 Leg 1,1,1,0
+de Eint Frankfurt,2022,h,0.4,Rd of 16 Leg 1,0,2,-2
+it Napoli,2022,a,2.8,Rd of 16 Leg 1,2,0,2
+es Real Madrid,2022,a,1.6,Rd of 16 Leg 1,5,2,3
+eng Liverpool,2022,h,1.8,Rd of 16 Leg 1,2,5,-3
+pt Benfica,2022,a,2.9,Rd of 16 Leg 1,2,0,2
+eng Chelsea,2022,a,2.1,Rd of 16 Leg 1,0,1,-1
+de Dortmund,2022,h,1.5,Rd of 16 Leg 1,1,0,1
+be Club Brugge,2022,h,0.2,Rd of 16 Leg 1,0,2,-2
+de Bayern Munich,2022,a,1.4,Rd of 16 Leg 1,1,0,1
+it Milan,2022,h,1.7,Rd of 16 Leg 1,1,0,1
+eng Tottenham,2022,a,0.4,Rd of 16 Leg 1,0,1,-1
+fr Paris S-G,2022,h,0.8,Rd of 16 Leg 1,0,1,-1
+sct Celtic,2022,a,2.1,Group,1,5,-4
+es Sevilla,2022,a,0.4,Group,1,3,-2
+pt Benfica,2022,a,1.5,Group,6,1,5
+it Juventus,2022,h,1.6,Group,1,2,-1
+de RB Leipzig,2022,a,2.2,Group,4,0,4
+es Real Madrid,2022,h,3.8,Group,5,1,4
+de Dortmund,2022,a,1.2,Group,1,1,0
+hr Dinamo Zagreb,2022,a,0.9,Group,1,2,-1
+eng Chelsea,2022,h,2.7,Group,2,1,1
+eng Manchester City,2022,h,2.0,Group,3,1,2
+at RB Salzburg,2022,a,1.6,Group,0,4,-4
+it Milan,2022,h,1.8,Group,4,0,4
+dk FC Copenhagen,2022,h,1.8,Group,1,1,0
+fr Paris S-G,2022,a,0.5,Group,2,1,1
+ua Shakhtar,2022,h,0.2,Group,0,4,-4
+il Maccabi Haifa,2022,h,1.6,Group,1,6,-5
+nl Ajax,2022,a,1.8,Group,3,1,2
+de Eint Frankfurt,2022,a,1.2,Group,2,1,1
+es Atlético Madrid,2022,a,0.8,Group,1,2,-1
+cz Viktoria Plzeň,2022,h,2.6,Group,2,4,-2
+eng Tottenham,2022,a,0.6,Group,2,1,1
+it Inter,2022,a,0.7,Group,0,2,-2
+eng Liverpool,2022,h,2.4,Group,2,0,2
+be Club Brugge,2022,a,0.5,Group,0,0,0
+it Napoli,2022,a,0.4,Group,0,2,-2
+de Leverkusen,2022,h,1.1,Group,0,0,0
+fr Marseille,2022,h,1.4,Group,1,2,-1
+de Bayern Munich,2022,h,1.5,Group,2,0,2
+sct Rangers,2022,h,1.8,Group,1,3,-2
+pt Sporting CP,2022,h,0.5,Group,1,2,-1
+es Barcelona,2022,a,2.3,Group,4,2,2
+pt Porto,2022,h,2.7,Group,2,1,1
+eng Liverpool,2022,a,1.6,Group,3,0,3
+it Napoli,2022,h,1.8,Group,3,0,3
+it Inter,2022,h,3.2,Group,4,0,4
+de Leverkusen,2022,a,1.5,Group,2,2,0
+cz Viktoria Plzeň,2022,a,0.1,Group,0,4,-4
+de Eint Frankfurt,2022,h,1.1,Group,2,1,1
+sct Rangers,2022,a,0.7,Group,0,3,-3
+be Club Brugge,2022,h,1.4,Group,0,4,-4
+es Atlético Madrid,2022,h,2.6,Group,2,2,0
+fr Marseille,2022,a,0.7,Group,1,2,-1
+pt Sporting CP,2022,a,0.8,Group,1,1,0
+nl Ajax,2022,h,1.2,Group,0,3,-3
+es Barcelona,2022,h,0.7,Group,0,3,-3
+pt Porto,2022,a,3.2,Group,4,0,4
+eng Tottenham,2022,h,1.7,Group,1,1,0
+de Bayern Munich,2022,a,2.1,Group,3,0,3
+es Sevilla,2022,h,1.0,Group,3,0,3
+de Dortmund,2022,h,1.2,Group,0,0,0
+hr Dinamo Zagreb,2022,h,0.7,Group,0,4,-4
+ua Shakhtar,2022,a,0.8,Group,1,1,0
+dk FC Copenhagen,2022,a,1.1,Group,0,3,-3
+it Juventus,2022,a,2.4,Group,3,4,-1
+eng Manchester City,2022,a,1.2,Group,0,0,0
+sct Celtic,2022,h,1.4,Group,1,1,0
+fr Paris S-G,2022,h,2.6,Group,7,2,5
+at RB Salzburg,2022,h,1.6,Group,1,2,-1
+de RB Leipzig,2022,h,2.2,Group,3,2,1
+es Real Madrid,2022,a,2.1,Group,2,3,-1
+pt Benfica,2022,h,3.3,Group,4,3,1
+it Milan,2022,a,3.2,Group,4,0,4
+il Maccabi Haifa,2022,a,0.8,Group,2,7,-5
+eng Chelsea,2022,a,1.5,Group,2,1,1
+eng Liverpool,2022,a,2.2,Group,7,1,6
+de Leverkusen,2022,h,2.2,Group,0,3,-3
+de Bayern Munich,2022,a,3.0,Group,4,2,2
+it Inter,2022,a,2.0,Group,3,3,0
+es Atlético Madrid,2022,h,2.3,Group,0,0,0
+fr Marseille,2022,a,2.8,Group,2,0,2
+pt Porto,2022,a,1.8,Group,3,0,3
+eng Tottenham,2022,h,3.0,Group,3,2,1
+it Napoli,2022,h,3.2,Group,4,2,2
+sct Rangers,2022,h,0.5,Group,1,7,-6
+nl Ajax,2022,a,1.6,Group,2,4,-2
+be Club Brugge,2022,a,0.6,Group,0,0,0
+cz Viktoria Plzeň,2022,h,1.2,Group,2,4,-2
+de Eint Frankfurt,2022,a,1.2,Group,2,3,-1
+pt Sporting CP,2022,h,0.3,Group,0,2,-2
+es Barcelona,2022,h,2.2,Group,3,3,0
+es Real Madrid,2022,a,1.1,Group,1,1,0
+de RB Leipzig,2022,a,1.7,Group,2,0,2
+sct Celtic,2022,h,2.0,Group,0,2,-2
+at RB Salzburg,2022,a,1.3,Group,1,1,0
+es Sevilla,2022,a,0.8,Group,1,1,0
+eng Chelsea,2022,a,2.2,Group,2,0,2
+hr Dinamo Zagreb,2022,h,0.9,Group,1,1,0
+de Dortmund,2022,h,0.4,Group,1,1,0
+eng Manchester City,2022,a,1.6,Group,0,0,0
+pt Benfica,2022,a,1.2,Group,1,1,0
+dk FC Copenhagen,2022,h,0.3,Group,0,0,0
+it Juventus,2022,a,0.5,Group,0,2,-2
+it Milan,2022,h,0.4,Group,0,2,-2
+it Juventus,2022,a,0.5,Group,0,2,-2
+fr Paris S-G,2022,h,1.2,Group,1,1,0
+il Maccabi Haifa,2022,h,0.8,Group,2,0,2
+eng Manchester City,2022,h,4.3,Group,5,0,5
+es Sevilla,2022,h,2.0,Group,1,4,-3
+fr Paris S-G,2022,a,1.0,Group,1,1,0
+dk FC Copenhagen,2022,a,0.4,Group,0,5,-5
+de RB Leipzig,2022,h,2.2,Group,3,1,2
+pt Benfica,2022,h,1.4,Group,1,1,0
+ua Shakhtar,2022,a,0.8,Group,1,2,-1
+at RB Salzburg,2022,h,2.2,Group,1,0,1
+eng Chelsea,2022,h,1.1,Group,3,0,3
+sct Celtic,2022,a,0.9,Group,1,3,-2
+it Juventus,2022,h,2.3,Group,3,1,2
+de Dortmund,2022,a,2.5,Group,4,1,3
+it Milan,2022,a,0.4,Group,0,3,-3
+hr Dinamo Zagreb,2022,a,0.7,Group,0,1,-1
+es Real Madrid,2022,h,3.4,Group,2,1,1
+il Maccabi Haifa,2022,a,2.0,Group,1,3,-2
+de Leverkusen,2022,a,1.4,Group,0,2,-2
+eng Liverpool,2022,h,2.9,Group,2,0,2
+es Barcelona,2022,a,0.5,Group,0,1,-1
+nl Ajax,2022,h,1.4,Group,1,6,-5
+cz Viktoria Plzeň,2022,a,0.5,Group,0,5,-5
+pt Porto,2022,h,1.1,Group,2,0,2
+sct Rangers,2022,a,0.4,Group,0,2,-2
+fr Marseille,2022,h,2.5,Group,4,1,3
+de Eint Frankfurt,2022,h,1.0,Group,0,0,0
+es Atlético Madrid,2022,a,2.1,Group,0,2,-2
+it Napoli,2022,a,3.3,Group,6,1,5
+be Club Brugge,2022,h,1.3,Group,2,0,2
+it Inter,2022,h,0.2,Group,1,0,1
+de Bayern Munich,2022,h,2.4,Group,5,0,5
+eng Tottenham,2022,a,1.5,Group,0,0,0
+pt Sporting CP,2022,a,0.4,Group,1,4,-3
+dk FC Copenhagen,2022,h,0.7,Group,0,0,0
+es Sevilla,2022,a,0.8,Group,0,0,0
+de RB Leipzig,2022,a,0.7,Group,0,2,-2
+hr Dinamo Zagreb,2022,a,0.4,Group,1,3,-2
+pt Benfica,2022,a,2.2,Group,2,1,1
+at RB Salzburg,2022,a,0.4,Group,1,1,0
+sct Rangers,2022,h,1.3,Group,0,3,-3
+es Real Madrid,2022,h,0.9,Group,2,0,2
+ua Shakhtar,2022,h,0.4,Group,1,1,0
+eng Chelsea,2022,h,1.2,Group,1,1,0
+it Juventus,2022,h,0.8,Group,1,2,-1
+fr Paris S-G,2022,a,1.8,Group,3,1,2
+eng Manchester City,2022,h,1.0,Group,2,1,1
+de Dortmund,2022,a,0.7,Group,1,2,-1
+it Milan,2022,h,2.2,Group,3,1,2
+it Napoli,2022,a,3.5,Group,3,0,3
+sct Celtic,2022,a,1.5,Group,1,1,0
+il Maccabi Haifa,2022,h,1.0,Group,1,3,-2
+fr Marseille,2022,h,0.9,Group,0,1,-1
+nl Ajax,2022,a,0.3,Group,1,2,-1
+pt Porto,2022,h,1.0,Group,0,4,-4
+es Atlético Madrid,2022,a,0.9,Group,0,2,-2
+eng Tottenham,2022,a,0.9,Group,0,2,-2
+eng Liverpool,2022,h,2.2,Group,2,1,1
+cz Viktoria Plzeň,2022,h,0.3,Group,0,2,-2
+de Leverkusen,2022,h,1.8,Group,2,0,2
+it Inter,2022,a,1.9,Group,2,0,2
+de Eint Frankfurt,2022,a,1.2,Group,1,0,1
+be Club Brugge,2022,a,2.7,Group,4,0,4
+es Barcelona,2022,a,2.0,Group,0,2,-2
+de Bayern Munich,2022,h,1.7,Group,2,0,2
+pt Sporting CP,2022,h,0.9,Group,2,0,2
+pt Porto,2022,a,2.0,Group,1,2,-1
+it Inter,2022,h,0.7,Group,0,2,-2
+fr Marseille,2022,a,0.4,Group,0,2,-2
+sct Rangers,2022,a,0.1,Group,0,4,-4
+eng Liverpool,2022,a,1.0,Group,1,4,-3
+eng Tottenham,2022,h,1.5,Group,2,0,2
+es Barcelona,2022,h,2.3,Group,5,1,4
+be Club Brugge,2022,h,0.5,Group,1,0,1
+de Leverkusen,2022,a,1.0,Group,0,1,-1
+it Napoli,2022,h,4.0,Group,4,1,3
+de Eint Frankfurt,2022,h,0.8,Group,0,3,-3
+es Atlético Madrid,2022,h,0.8,Group,2,1,1
+cz Viktoria Plzeň,2022,a,0.8,Group,1,5,-4
+de Bayern Munich,2022,a,2.5,Group,2,0,2
+nl Ajax,2022,h,2.1,Group,4,0,4
+pt Sporting CP,2022,a,0.9,Group,3,0,3
+pt Benfica,2022,h,0.9,Group,2,0,2
+de RB Leipzig,2022,h,1.4,Group,1,4,-3
+es Real Madrid,2022,a,1.9,Group,3,0,3
+dk FC Copenhagen,2022,a,0.5,Group,0,3,-3
+es Sevilla,2022,h,0.3,Group,0,4,-4
+at RB Salzburg,2022,h,1.3,Group,1,1,0
+il Maccabi Haifa,2022,a,0.1,Group,0,2,-2
+hr Dinamo Zagreb,2022,h,0.6,Group,1,0,1
+fr Paris S-G,2022,h,1.7,Group,2,1,1
+it Milan,2022,a,0.9,Group,1,1,0
+de Dortmund,2022,h,2.3,Group,3,0,3
+it Juventus,2022,a,1.0,Group,1,2,-1
+ua Shakhtar,2022,a,0.9,Group,4,1,3
+eng Chelsea,2022,a,0.9,Group,0,1,-1
+sct Celtic,2022,h,1.4,Group,0,3,-3
+eng Manchester City,2022,a,3.6,Group,4,0,4
+eng Liverpool,2021,a,2.2,Final,0,1,-1
+es Real Madrid,2021,a,0.9,Final,1,0,1
+eng Manchester City,2021,a,1.4,Semi-finals Leg 2,1,3,-2
+es Real Madrid,2021,h,2.3,Semi-finals Leg 2,3,1,2
+es Villarreal,2021,h,1.2,Semi-finals Leg 2,2,3,-1
+eng Liverpool,2021,a,2.5,Semi-finals Leg 2,3,2,1
+es Villarreal,2021,a,0.1,Semi-finals Leg 1,0,2,-2
+eng Liverpool,2021,h,1.6,Semi-finals Leg 1,2,0,2
+eng Manchester City,2021,h,2.7,Semi-finals Leg 1,4,3,1
+es Real Madrid,2021,a,1.6,Semi-finals Leg 1,3,4,-1
+eng Manchester City,2021,a,1.2,Quarter-finals Leg 2,0,0,0
+eng Liverpool,2021,h,1.8,Quarter-finals Leg 2,3,3,0
+pt Benfica,2021,a,1.2,Quarter-finals Leg 2,3,3,0
+es Atlético Madrid,2021,h,0.8,Quarter-finals Leg 2,0,0,0
+de Bayern Munich,2021,h,1.4,Quarter-finals Leg 2,1,1,0
+eng Chelsea,2021,a,2.7,Quarter-finals Leg 2,3,2,1
+es Real Madrid,2021,h,1.2,Quarter-finals Leg 2,2,3,-1
+es Villarreal,2021,a,0.7,Quarter-finals Leg 2,1,1,0
+es Villarreal,2021,h,1.5,Quarter-finals Leg 1,1,0,1
+es Real Madrid,2021,a,1.8,Quarter-finals Leg 1,3,1,2
+de Bayern Munich,2021,a,1.6,Quarter-finals Leg 1,0,1,-1
+eng Chelsea,2021,h,1.3,Quarter-finals Leg 1,1,3,-2
+eng Manchester City,2021,h,1.0,Quarter-finals Leg 1,1,0,1
+eng Liverpool,2021,a,3.9,Quarter-finals Leg 1,3,1,2
+es Atlético Madrid,2021,a,0.0,Quarter-finals Leg 1,0,1,-1
+pt Benfica,2021,h,1.2,Quarter-finals Leg 1,1,3,-2
+eng Chelsea,2021,a,1.0,Rd of 16 Leg 2,2,1,1
+it Juventus,2021,h,1.5,Rd of 16 Leg 2,0,3,-3
+es Villarreal,2021,a,2.5,Rd of 16 Leg 2,3,0,3
+fr Lille,2021,h,1.7,Rd of 16 Leg 2,1,2,-1
+es Atlético Madrid,2021,a,0.5,Rd of 16 Leg 2,1,0,1
+eng Manchester Utd,2021,h,1.0,Rd of 16 Leg 2,0,1,-1
+nl Ajax,2021,h,1.3,Rd of 16 Leg 2,0,1,-1
+pt Benfica,2021,a,0.4,Rd of 16 Leg 2,1,0,1
+fr Paris S-G,2021,a,0.8,Rd of 16 Leg 2,1,3,-2
+pt Sporting CP,2021,a,0.8,Rd of 16 Leg 2,0,0,0
+es Real Madrid,2021,h,2.0,Rd of 16 Leg 2,3,1,2
+eng Manchester City,2021,h,1.5,Rd of 16 Leg 2,0,0,0
+de Bayern Munich,2021,h,4.2,Rd of 16 Leg 2,7,1,6
+eng Liverpool,2021,h,1.8,Rd of 16 Leg 2,0,1,-1
+at RB Salzburg,2021,a,0.7,Rd of 16 Leg 2,1,7,-6
+it Inter,2021,a,0.5,Rd of 16 Leg 2,1,0,1
+es Atlético Madrid,2021,h,1.3,Rd of 16 Leg 1,1,1,0
+eng Manchester Utd,2021,a,0.6,Rd of 16 Leg 1,1,1,0
+nl Ajax,2021,a,2.4,Rd of 16 Leg 1,2,2,0
+pt Benfica,2021,h,2.0,Rd of 16 Leg 1,2,2,0
+it Juventus,2021,a,0.7,Rd of 16 Leg 1,1,1,0
+eng Chelsea,2021,h,1.2,Rd of 16 Leg 1,2,0,2
+es Villarreal,2021,h,1.3,Rd of 16 Leg 1,1,1,0
+fr Lille,2021,a,0.8,Rd of 16 Leg 1,0,2,-2
+at RB Salzburg,2021,h,1.1,Rd of 16 Leg 1,1,1,0
+de Bayern Munich,2021,a,2.3,Rd of 16 Leg 1,1,1,0
+eng Liverpool,2021,a,1.0,Rd of 16 Leg 1,2,0,2
+it Inter,2021,h,0.6,Rd of 16 Leg 1,0,2,-2
+eng Manchester City,2021,a,2.1,Rd of 16 Leg 1,5,0,5
+fr Paris S-G,2021,h,2.0,Rd of 16 Leg 1,1,0,1
+pt Sporting CP,2021,h,0.1,Rd of 16 Leg 1,0,5,-5
+es Real Madrid,2021,a,0.2,Rd of 16 Leg 1,0,1,-1
+es Villarreal,2021,a,2.2,Group,3,2,1
+it Atalanta,2021,h,2.0,Group,2,3,-1
+eng Chelsea,2021,a,2.7,Group,3,3,0
+se Malmö,2021,a,0.2,Group,0,1,-1
+ua Dynamo Kyiv,2021,a,1.0,Group,0,2,-2
+fr Lille,2021,a,2.5,Group,3,1,2
+es Barcelona,2021,a,0.4,Group,0,3,-3
+ch Young Boys,2021,a,1.3,Group,1,1,0
+de Wolfsburg,2021,h,0.7,Group,1,3,-2
+de Bayern Munich,2021,h,2.4,Group,3,0,3
+eng Manchester Utd,2021,h,1.2,Group,1,1,0
+at RB Salzburg,2021,h,0.6,Group,1,0,1
+ru Zenit,2021,h,2.6,Group,3,3,0
+pt Benfica,2021,h,1.1,Group,2,0,2
+es Sevilla,2021,a,0.9,Group,0,1,-1
+it Juventus,2021,h,2.1,Group,1,0,1
+ua Shakhtar,2021,h,2.0,Group,1,1,0
+it Inter,2021,a,0.9,Group,0,2,-2
+it Milan,2021,h,1.4,Group,1,2,-1
+eng Manchester City,2021,a,1.2,Group,1,2,-1
+tr Beşiktaş,2021,a,0.1,Group,0,5,-5
+nl Ajax,2021,h,2.1,Group,4,2,2
+pt Sporting CP,2021,a,1.2,Group,2,4,-2
+es Real Madrid,2021,h,1.2,Group,2,0,2
+md Sheriff Tiraspol,2021,a,1.0,Group,1,1,0
+pt Porto,2021,h,1.6,Group,1,3,-2
+eng Liverpool,2021,a,1.9,Group,2,1,1
+de RB Leipzig,2021,h,1.7,Group,2,1,1
+de Dortmund,2021,h,3.5,Group,5,0,5
+be Club Brugge,2021,a,1.1,Group,1,4,-3
+es Atlético Madrid,2021,a,3.7,Group,3,1,2
+fr Paris S-G,2021,h,3.6,Group,4,1,3
+it Milan,2021,a,1.3,Group,1,0,1
+be Club Brugge,2021,h,0.9,Group,0,5,-5
+de Dortmund,2021,a,1.6,Group,1,3,-2
+tr Beşiktaş,2021,h,1.9,Group,1,2,-1
+nl Ajax,2021,a,2.5,Group,2,1,1
+es Real Madrid,2021,a,1.5,Group,3,0,3
+md Sheriff Tiraspol,2021,h,1.4,Group,0,3,-3
+eng Liverpool,2021,h,0.6,Group,2,0,2
+pt Porto,2021,a,1.1,Group,0,2,-2
+de RB Leipzig,2021,a,3.8,Group,5,0,5
+eng Manchester City,2021,h,2.1,Group,2,1,1
+de RB Leipzig,2021,a,3.8,Group,5,0,5
+fr Paris S-G,2021,a,1.0,Group,1,2,-1
+pt Porto,2021,a,1.1,Group,0,2,-2
+it Milan,2021,a,1.3,Group,1,0,1
+ua Shakhtar,2021,a,0.6,Group,0,2,-2
+de Bayern Munich,2021,a,1.0,Group,2,1,1
+eng Manchester Utd,2021,a,1.2,Group,2,0,2
+es Barcelona,2021,h,1.4,Group,0,0,0
+es Villarreal,2021,h,0.6,Group,0,2,-2
+ch Young Boys,2021,h,0.7,Group,3,3,0
+de Wolfsburg,2021,a,0.3,Group,0,2,-2
+ru Zenit,2021,a,1.9,Group,1,1,0
+pt Benfica,2021,a,1.2,Group,0,0,0
+at RB Salzburg,2021,a,0.5,Group,0,1,-1
+es Sevilla,2021,h,1.6,Group,2,0,2
+it Juventus,2021,a,0.7,Group,0,4,-4
+fr Lille,2021,h,0.7,Group,1,0,1
+it Atalanta,2021,a,1.2,Group,3,3,0
+eng Chelsea,2021,h,3.0,Group,4,0,4
+se Malmö,2021,h,0.2,Group,1,1,0
+ua Dynamo Kyiv,2021,h,1.1,Group,1,2,-1
+nl Ajax,2021,a,2.0,Group,3,1,2
+pt Sporting CP,2021,h,2.7,Group,4,0,4
+tr Beşiktaş,2021,a,1.1,Group,0,4,-4
+md Sheriff Tiraspol,2021,h,0.3,Group,1,3,-2
+eng Liverpool,2021,h,3.0,Group,2,0,2
+ua Shakhtar,2021,a,1.3,Group,1,2,-1
+it Inter,2021,a,2.5,Group,3,1,2
+be Club Brugge,2021,a,0.8,Group,1,4,-3
+de Dortmund,2021,h,1.7,Group,1,3,-2
+es Real Madrid,2021,h,2.0,Group,2,1,1
+de RB Leipzig,2021,h,3.3,Group,2,2,0
+es Atlético Madrid,2021,a,0.2,Group,0,2,-2
+eng Manchester City,2021,h,4.6,Group,4,1,3
+pt Porto,2021,a,1.8,Group,1,1,0
+fr Paris S-G,2021,a,2.1,Group,2,2,0
+it Milan,2021,h,0.6,Group,1,1,0
+de Bayern Munich,2021,h,4.8,Group,5,2,3
+eng Manchester Utd,2021,a,1.1,Group,2,2,0
+es Villarreal,2021,h,2.2,Group,2,0,2
+es Barcelona,2021,a,1.1,Group,1,0,1
+ch Young Boys,2021,a,1.1,Group,0,2,-2
+de Wolfsburg,2021,h,1.7,Group,2,1,1
+at RB Salzburg,2021,a,1.6,Group,1,2,-1
+pt Benfica,2021,a,1.0,Group,2,5,-3
+se Malmö,2021,h,0.2,Group,0,1,-1
+ua Dynamo Kyiv,2021,h,1.1,Group,0,1,-1
+eng Chelsea,2021,a,2.5,Group,1,0,1
+fr Lille,2021,a,1.9,Group,2,1,1
+it Atalanta,2021,h,1.5,Group,2,2,0
+it Juventus,2021,h,2.7,Group,4,2,2
+ru Zenit,2021,a,1.3,Group,2,4,-2
+es Sevilla,2021,h,1.0,Group,1,2,-1
+de Bayern Munich,2021,a,3.0,Group,4,0,4
+es Barcelona,2021,h,2.2,Group,1,0,1
+eng Manchester Utd,2021,h,2.8,Group,3,2,1
+ch Young Boys,2021,h,2.7,Group,1,4,-3
+de Wolfsburg,2021,a,0.9,Group,1,3,-2
+es Villarreal,2021,a,2.7,Group,4,1,3
+ru Zenit,2021,h,0.6,Group,0,1,-1
+pt Benfica,2021,h,0.7,Group,0,4,-4
+at RB Salzburg,2021,h,2.7,Group,3,1,2
+ua Dynamo Kyiv,2021,a,0.1,Group,0,1,-1
+it Atalanta,2021,a,1.6,Group,2,3,-1
+fr Lille,2021,h,0.8,Group,0,0,0
+it Juventus,2021,a,1.2,Group,1,0,1
+eng Chelsea,2021,h,2.6,Group,4,0,4
+se Malmö,2021,a,0.1,Group,0,4,-4
+es Sevilla,2021,a,1.1,Group,0,0,0
+nl Ajax,2021,h,2.1,Group,4,0,4
+tr Beşiktaş,2021,h,0.9,Group,1,4,-3
+pt Sporting CP,2021,a,4.4,Group,4,1,3
+md Sheriff Tiraspol,2021,a,0.4,Group,1,3,-2
+ua Shakhtar,2021,h,0.7,Group,0,5,-5
+it Inter,2021,h,2.3,Group,3,1,2
+es Real Madrid,2021,a,2.6,Group,5,0,5
+de RB Leipzig,2021,a,2.1,Group,2,3,-1
+es Atlético Madrid,2021,h,2.2,Group,2,3,-1
+be Club Brugge,2021,h,0.6,Group,1,5,-4
+de Dortmund,2021,a,1.2,Group,0,4,-4
+fr Paris S-G,2021,h,3.0,Group,3,2,1
+eng Manchester City,2021,a,4.7,Group,5,1,4
+pt Porto,2021,h,1.1,Group,1,0,1
+it Milan,2021,a,0.2,Group,0,1,-1
+eng Liverpool,2021,a,1.3,Group,3,2,1
+de Bayern Munich,2021,h,2.7,Group,5,0,5
+es Barcelona,2021,a,1.2,Group,0,3,-3
+eng Manchester Utd,2021,h,1.1,Group,2,1,1
+es Villarreal,2021,a,2.3,Group,1,2,-1
+de Wolfsburg,2021,h,1.2,Group,1,1,0
+ch Young Boys,2021,a,0.1,Group,0,1,-1
+at RB Salzburg,2021,h,2.1,Group,2,1,1
+es Sevilla,2021,a,1.1,Group,1,1,0
+ua Dynamo Kyiv,2021,a,0.3,Group,0,5,-5
+pt Benfica,2021,h,1.9,Group,3,0,3
+it Juventus,2021,h,0.9,Group,1,0,1
+it Atalanta,2021,h,2.5,Group,1,0,1
+fr Lille,2021,a,0.5,Group,1,2,-1
+ru Zenit,2021,h,2.5,Group,4,0,4
+se Malmö,2021,a,0.5,Group,0,4,-4
+eng Chelsea,2021,a,1.3,Group,0,1,-1
+nl Ajax,2021,h,3.5,Group,2,0,2
+pt Sporting CP,2021,a,0.4,Group,0,1,-1
+tr Beşiktaş,2021,a,0.9,Group,0,2,-2
+md Sheriff Tiraspol,2021,a,0.4,Group,2,1,1
+eng Liverpool,2021,a,3.4,Group,5,1,4
+ua Shakhtar,2021,h,1.3,Group,0,0,0
+it Milan,2021,h,0.7,Group,1,2,-1
+es Real Madrid,2021,h,3.1,Group,1,2,-1
+de Dortmund,2021,h,0.3,Group,1,0,1
+be Club Brugge,2021,a,1.4,Group,2,1,1
+it Inter,2021,a,1.0,Group,0,0,0
+de RB Leipzig,2021,h,1.3,Group,1,2,-1
+pt Porto,2021,h,0.9,Group,1,5,-4
+eng Manchester City,2021,a,1.9,Group,0,2,-2
+es Atlético Madrid,2021,a,2.1,Group,2,1,1
+fr Paris S-G,2021,h,0.4,Group,2,0,2
+pt Sporting CP,2021,h,0.7,Group,1,5,-4
+nl Ajax,2021,a,3.1,Group,5,1,4
+tr Beşiktaş,2021,h,1.2,Group,1,2,-1
+md Sheriff Tiraspol,2021,h,1.0,Group,2,0,2
+ua Shakhtar,2021,a,0.8,Group,0,2,-2
+it Milan,2021,a,1.6,Group,2,3,-1
+eng Liverpool,2021,h,2.5,Group,3,2,1
+de Dortmund,2021,a,3.0,Group,2,1,1
+it Inter,2021,h,2.4,Group,0,1,-1
+es Real Madrid,2021,a,1.2,Group,1,0,1
+be Club Brugge,2021,h,1.3,Group,1,1,0
+de RB Leipzig,2021,a,0.9,Group,3,6,-3
+es Atlético Madrid,2021,h,0.3,Group,0,0,0
+eng Manchester City,2021,h,1.9,Group,6,3,3
+pt Porto,2021,a,1.6,Group,0,0,0
+fr Paris S-G,2021,a,1.4,Group,1,1,0
+de Bayern Munich,2021,a,2.7,Group,3,0,3
+es Barcelona,2021,h,0.2,Group,0,3,-3
+eng Manchester Utd,2021,a,0.5,Group,1,2,-1
+es Villarreal,2021,h,2.3,Group,2,2,0
+ch Young Boys,2021,h,1.4,Group,2,1,1
+de Wolfsburg,2021,a,0.1,Group,0,0,0
+at RB Salzburg,2021,a,2.9,Group,1,1,0
+se Malmö,2021,h,0.4,Group,0,3,-3
+ua Dynamo Kyiv,2021,h,0.6,Group,0,0,0
+pt Benfica,2021,a,1.0,Group,0,0,0
+it Atalanta,2021,a,1.3,Group,2,2,0
+it Juventus,2021,a,3.5,Group,3,0,3
+fr Lille,2021,h,1.6,Group,0,0,0
+es Sevilla,2021,h,1.5,Group,1,1,0
+ru Zenit,2021,a,0.9,Group,0,1,-1
+eng Chelsea,2021,h,0.7,Group,1,0,1
+eng Manchester City,2020,a,0.5,Final,0,1,-1
+eng Chelsea,2020,a,1.4,Final,1,0,1
+es Real Madrid,2020,a,0.5,Semi-finals Leg 2,0,2,-2
+eng Chelsea,2020,h,4.0,Semi-finals Leg 2,2,0,2
+fr Paris S-G,2020,a,0.8,Semi-finals Leg 2,0,2,-2
+eng Manchester City,2020,h,1.4,Semi-finals Leg 2,2,0,2
+fr Paris S-G,2020,h,1.0,Semi-finals Leg 1,1,2,-1
+eng Manchester City,2020,a,0.8,Semi-finals Leg 1,2,1,1
+es Real Madrid,2020,h,0.7,Semi-finals Leg 1,1,1,0
+eng Chelsea,2020,a,1.7,Semi-finals Leg 1,1,1,0
+eng Manchester City,2020,a,2.5,Quarter-finals Leg 2,2,1,1
+es Real Madrid,2020,a,0.8,Quarter-finals Leg 2,0,0,0
+eng Liverpool,2020,h,1.2,Quarter-finals Leg 2,0,0,0
+de Dortmund,2020,h,0.5,Quarter-finals Leg 2,1,2,-1
+eng Chelsea,2020,a,1.2,Quarter-finals Leg 2,0,1,-1
+fr Paris S-G,2020,h,1.6,Quarter-finals Leg 2,0,1,-1
+de Bayern Munich,2020,a,1.5,Quarter-finals Leg 2,1,0,1
+pt Porto,2020,a,0.4,Quarter-finals Leg 2,1,0,1
+de Bayern Munich,2020,h,3.7,Quarter-finals Leg 1,2,3,-1
+eng Chelsea,2020,a,1.6,Quarter-finals Leg 1,2,0,2
+fr Paris S-G,2020,a,1.3,Quarter-finals Leg 1,3,2,1
+pt Porto,2020,a,1.4,Quarter-finals Leg 1,0,2,-2
+eng Liverpool,2020,a,0.7,Quarter-finals Leg 1,1,3,-2
+eng Manchester City,2020,h,2.1,Quarter-finals Leg 1,2,1,1
+es Real Madrid,2020,h,2.1,Quarter-finals Leg 1,3,1,2
+de Dortmund,2020,a,1.1,Quarter-finals Leg 1,1,2,-1
+de Bayern Munich,2020,h,1.9,Rd of 16 Leg 2,2,1,1
+eng Chelsea,2020,h,2.0,Rd of 16 Leg 2,2,0,2
+it Lazio,2020,a,1.1,Rd of 16 Leg 2,1,2,-1
+es Atlético Madrid,2020,a,0.5,Rd of 16 Leg 2,0,2,-2
+eng Manchester City,2020,a,1.4,Rd of 16 Leg 2,2,0,2
+de Gladbach,2020,a,0.3,Rd of 16 Leg 2,0,2,-2
+es Real Madrid,2020,h,2.7,Rd of 16 Leg 2,3,1,2
+it Atalanta,2020,a,1.3,Rd of 16 Leg 2,1,3,-2
+fr Paris S-G,2020,h,1.7,Rd of 16 Leg 2,1,1,0
+eng Liverpool,2020,a,2.4,Rd of 16 Leg 2,2,0,2
+es Barcelona,2020,a,2.2,Rd of 16 Leg 2,1,1,0
+de RB Leipzig,2020,a,0.9,Rd of 16 Leg 2,0,2,-2
+it Juventus,2020,h,3.0,Rd of 16 Leg 2,3,2,1
+es Sevilla,2020,a,2.0,Rd of 16 Leg 2,2,2,0
+pt Porto,2020,a,2.2,Rd of 16 Leg 2,2,3,-1
+de Dortmund,2020,h,2.2,Rd of 16 Leg 2,2,2,0
+de Gladbach,2020,a,0.4,Rd of 16 Leg 1,0,2,-2
+eng Manchester City,2020,a,1.6,Rd of 16 Leg 1,2,0,2
+es Real Madrid,2020,a,1.5,Rd of 16 Leg 1,1,0,1
+it Atalanta,2020,h,0.1,Rd of 16 Leg 1,0,1,-1
+es Atlético Madrid,2020,a,0.8,Rd of 16 Leg 1,0,1,-1
+eng Chelsea,2020,a,1.0,Rd of 16 Leg 1,1,0,1
+de Bayern Munich,2020,a,1.9,Rd of 16 Leg 1,4,1,3
+it Lazio,2020,h,0.9,Rd of 16 Leg 1,1,4,-3
+es Sevilla,2020,h,0.9,Rd of 16 Leg 1,2,3,-1
+it Juventus,2020,a,0.9,Rd of 16 Leg 1,1,2,-1
+pt Porto,2020,h,1.3,Rd of 16 Leg 1,2,1,1
+de Dortmund,2020,a,1.2,Rd of 16 Leg 1,3,2,1
+es Barcelona,2020,h,1.6,Rd of 16 Leg 1,1,4,-3
+de RB Leipzig,2020,a,1.3,Rd of 16 Leg 1,0,2,-2
+eng Liverpool,2020,a,1.4,Rd of 16 Leg 1,2,0,2
+fr Paris S-G,2020,a,2.8,Rd of 16 Leg 1,4,1,3
+de Bayern Munich,2020,h,1.7,Group,2,0,2
+nl Ajax,2020,h,0.7,Group,0,1,-1
+gr Olympiacos,2020,h,1.0,Group,0,2,-2
+de Gladbach,2020,a,1.0,Group,0,2,-2
+dk Midtjylland,2020,h,2.3,Group,1,1,0
+at RB Salzburg,2020,h,1.4,Group,0,2,-2
+es Real Madrid,2020,h,2.8,Group,2,0,2
+fr Marseille,2020,a,0.5,Group,0,3,-3
+ru Loko Moscow,2020,a,0.4,Group,0,2,-2
+pt Porto,2020,a,1.0,Group,2,0,2
+eng Liverpool,2020,a,1.1,Group,1,1,0
+it Atalanta,2020,a,1.2,Group,1,0,1
+eng Manchester City,2020,h,2.4,Group,3,0,3
+tr Başakşehir,2020,a,0.8,Group,1,5,-4
+it Inter,2020,h,1.3,Group,0,0,0
+es Atlético Madrid,2020,a,0.6,Group,2,0,2
+fr Paris S-G,2020,h,3.1,Group,5,1,4
+ua Shakhtar,2020,a,0.4,Group,0,0,0
+eng Manchester Utd,2020,a,2.0,Group,2,3,-1
+es Barcelona,2020,h,0.9,Group,0,3,-3
+hu Ferencváros,2020,a,0.7,Group,0,1,-1
+it Lazio,2020,h,2.7,Group,2,2,0
+ru Zenit,2020,h,1.2,Group,1,2,-1
+de RB Leipzig,2020,h,1.5,Group,3,2,1
+es Sevilla,2020,a,1.5,Group,3,1,2
+de Dortmund,2020,a,1.6,Group,2,1,1
+fr Rennes,2020,h,2.4,Group,1,3,-2
+ua Dynamo Kyiv,2020,h,0.5,Group,1,0,1
+eng Chelsea,2020,h,2.5,Group,1,1,0
+it Juventus,2020,a,2.9,Group,3,0,3
+be Club Brugge,2020,a,1.1,Group,2,2,0
+ru Krasnodar,2020,a,0.4,Group,1,1,0
+eng Manchester Utd,2020,h,1.2,Group,1,3,-2
+es Barcelona,2020,a,4.0,Group,3,0,3
+hu Ferencváros,2020,h,0.8,Group,0,3,-3
+it Lazio,2020,a,1.9,Group,1,1,0
+ru Zenit,2020,a,0.2,Group,0,3,-3
+de RB Leipzig,2020,a,2.1,Group,4,3,1
+es Sevilla,2020,h,1.3,Group,0,4,-4
+de Dortmund,2020,h,1.4,Group,1,1,0
+fr Rennes,2020,a,0.7,Group,0,1,-1
+tr Başakşehir,2020,h,0.6,Group,3,4,-1
+ua Dynamo Kyiv,2020,a,0.6,Group,0,3,-3
+eng Chelsea,2020,a,2.4,Group,4,0,4
+it Juventus,2020,h,2.9,Group,3,0,3
+fr Paris S-G,2020,a,2.8,Group,3,1,2
+be Club Brugge,2020,h,2.0,Group,3,0,3
+ru Krasnodar,2020,h,1.5,Group,1,0,1
+de Bayern Munich,2020,a,1.1,Group,1,1,0
+nl Ajax,2020,a,1.5,Group,0,1,-1
+gr Olympiacos,2020,a,0.3,Group,1,2,-1
+de Gladbach,2020,h,1.3,Group,2,3,-1
+dk Midtjylland,2020,a,0.7,Group,1,1,0
+at RB Salzburg,2020,a,2.4,Group,3,1,2
+es Real Madrid,2020,a,1.4,Group,0,2,-2
+fr Marseille,2020,h,2.0,Group,2,1,1
+ru Loko Moscow,2020,h,1.1,Group,1,3,-2
+pt Porto,2020,h,0.1,Group,0,0,0
+eng Liverpool,2020,h,2.0,Group,1,0,1
+it Atalanta,2020,h,2.4,Group,1,1,0
+eng Manchester City,2020,a,2.5,Group,0,0,0
+it Inter,2020,a,1.6,Group,3,2,1
+es Atlético Madrid,2020,h,1.6,Group,1,1,0
+ua Shakhtar,2020,h,1.3,Group,2,0,2
+de Bayern Munich,2020,h,1.3,Group,3,1,2
+nl Ajax,2020,h,2.4,Group,3,1,2
+gr Olympiacos,2020,h,0.1,Group,0,1,-1
+de Gladbach,2020,h,3.2,Group,4,0,4
+dk Midtjylland,2020,a,1.4,Group,1,3,-2
+at RB Salzburg,2020,a,3.3,Group,1,3,-2
+es Real Madrid,2020,a,2.0,Group,2,0,2
+fr Marseille,2020,h,1.3,Group,0,2,-2
+ru Loko Moscow,2020,a,0.2,Group,0,0,0
+pt Porto,2020,a,2.1,Group,2,0,2
+eng Liverpool,2020,h,0.2,Group,0,2,-2
+it Atalanta,2020,a,1.2,Group,2,0,2
+eng Manchester City,2020,a,2.4,Group,1,0,1
+it Inter,2020,h,0.2,Group,0,2,-2
+es Atlético Madrid,2020,h,1.6,Group,0,0,0
+ua Shakhtar,2020,a,0.7,Group,0,4,-4
+eng Manchester Utd,2020,h,2.9,Group,4,1,3
+es Barcelona,2020,a,3.0,Group,4,0,4
+hu Ferencváros,2020,a,0.4,Group,1,2,-1
+it Lazio,2020,h,3.3,Group,3,1,2
+ru Zenit,2020,a,0.6,Group,1,3,-2
+de RB Leipzig,2020,a,1.4,Group,0,1,-1
+es Sevilla,2020,a,1.6,Group,2,1,1
+de Dortmund,2020,h,1.6,Group,3,0,3
+fr Rennes,2020,h,1.1,Group,1,2,-1
+tr Başakşehir,2020,a,1.3,Group,1,4,-3
+ua Dynamo Kyiv,2020,h,0.3,Group,0,4,-4
+eng Chelsea,2020,a,2.2,Group,2,1,1
+it Juventus,2020,h,1.0,Group,2,1,1
+fr Paris S-G,2020,h,1.1,Group,1,0,1
+be Club Brugge,2020,a,0.1,Group,0,3,-3
+ru Krasnodar,2020,h,1.1,Group,1,2,-1
+eng Manchester Utd,2020,a,0.7,Group,1,2,-1
+es Barcelona,2020,h,3.5,Group,2,1,1
+hu Ferencváros,2020,h,1.5,Group,1,4,-3
+it Lazio,2020,a,0.7,Group,1,1,0
+ru Zenit,2020,h,1.2,Group,1,1,0
+de RB Leipzig,2020,h,1.9,Group,2,1,1
+es Sevilla,2020,h,2.0,Group,3,2,1
+de Dortmund,2020,a,1.8,Group,3,0,3
+fr Rennes,2020,a,0.6,Group,0,3,-3
+tr Başakşehir,2020,h,1.0,Group,2,1,1
+ua Dynamo Kyiv,2020,a,2.7,Group,1,2,-1
+eng Chelsea,2020,h,3.3,Group,3,0,3
+it Juventus,2020,a,2.7,Group,4,1,3
+fr Paris S-G,2020,a,1.3,Group,1,2,-1
+be Club Brugge,2020,h,1.2,Group,0,3,-3
+ru Krasnodar,2020,a,1.4,Group,2,3,-1
+de Bayern Munich,2020,a,2.9,Group,6,2,4
+nl Ajax,2020,a,0.7,Group,2,1,1
+gr Olympiacos,2020,a,0.6,Group,0,3,-3
+de Gladbach,2020,a,2.3,Group,6,0,6
+dk Midtjylland,2020,h,0.7,Group,1,2,-1
+at RB Salzburg,2020,h,1.8,Group,2,6,-4
+es Real Madrid,2020,h,1.2,Group,3,2,1
+fr Marseille,2020,a,1.0,Group,0,3,-3
+ru Loko Moscow,2020,h,0.9,Group,1,1,0
+pt Porto,2020,h,2.4,Group,3,0,3
+eng Liverpool,2020,a,2.5,Group,5,0,5
+it Atalanta,2020,h,1.2,Group,0,5,-5
+eng Manchester City,2020,h,1.7,Group,3,0,3
+it Inter,2020,a,0.7,Group,2,3,-1
+es Atlético Madrid,2020,a,1.0,Group,1,1,0
+ua Shakhtar,2020,h,0.4,Group,0,6,-6
+eng Manchester Utd,2020,h,3.2,Group,5,0,5
+es Barcelona,2020,a,2.3,Group,2,0,2
+hu Ferencváros,2020,h,1.0,Group,2,2,0
+it Lazio,2020,a,0.8,Group,1,1,0
+ru Zenit,2020,a,0.2,Group,0,2,-2
+de RB Leipzig,2020,a,0.5,Group,0,5,-5
+es Sevilla,2020,h,2.6,Group,1,0,1
+de Dortmund,2020,h,1.7,Group,2,0,2
+fr Rennes,2020,a,0.1,Group,0,1,-1
+tr Başakşehir,2020,h,0.9,Group,0,2,-2
+ua Dynamo Kyiv,2020,a,1.6,Group,2,2,0
+eng Chelsea,2020,a,2.4,Group,4,0,4
+it Juventus,2020,h,0.4,Group,0,2,-2
+fr Paris S-G,2020,a,2.4,Group,2,0,2
+be Club Brugge,2020,h,2.1,Group,1,1,0
+ru Krasnodar,2020,h,0.6,Group,0,4,-4
+de Bayern Munich,2020,a,3.2,Group,2,1,1
+nl Ajax,2020,a,1.4,Group,2,2,0
+gr Olympiacos,2020,a,1.0,Group,0,2,-2
+de Gladbach,2020,h,1.6,Group,2,2,0
+dk Midtjylland,2020,a,1.2,Group,0,2,-2
+at RB Salzburg,2020,a,1.1,Group,2,3,-1
+es Real Madrid,2020,a,2.6,Group,2,2,0
+fr Marseille,2020,h,0.1,Group,0,3,-3
+ru Loko Moscow,2020,h,1.5,Group,1,2,-1
+pt Porto,2020,h,1.4,Group,2,0,2
+eng Liverpool,2020,h,2.2,Group,2,0,2
+it Atalanta,2020,h,1.7,Group,2,2,0
+eng Manchester City,2020,a,1.9,Group,3,0,3
+it Inter,2020,a,1.7,Group,0,0,0
+es Atlético Madrid,2020,h,2.5,Group,3,2,1
+ua Shakhtar,2020,h,0.1,Group,0,0,0
+de Bayern Munich,2020,h,2.6,Group,4,0,4
+nl Ajax,2020,h,1.4,Group,0,1,-1
+gr Olympiacos,2020,h,1.0,Group,1,0,1
+de Gladbach,2020,a,1.4,Group,2,2,0
+dk Midtjylland,2020,h,0.8,Group,0,4,-4
+at RB Salzburg,2020,h,1.1,Group,2,2,0
+es Real Madrid,2020,h,1.0,Group,2,3,-1
+fr Marseille,2020,a,0.9,Group,0,1,-1
+ru Loko Moscow,2020,a,0.8,Group,2,2,0
+pt Porto,2020,a,0.2,Group,1,3,-2
+eng Liverpool,2020,a,1.1,Group,1,0,1
+it Atalanta,2020,a,2.5,Group,4,0,4
+eng Manchester City,2020,h,1.5,Group,3,1,2
+it Inter,2020,h,2.8,Group,2,2,0
+es Atlético Madrid,2020,a,0.4,Group,0,4,-4
+ua Shakhtar,2020,a,1.7,Group,3,2,1
+eng Manchester Utd,2020,a,1.4,Group,2,1,1
+es Barcelona,2020,h,2.8,Group,5,1,4
+hu Ferencváros,2020,a,1.3,Group,1,5,-4
+it Lazio,2020,h,1.7,Group,3,1,2
+ru Zenit,2020,h,2.2,Group,1,2,-1
+de RB Leipzig,2020,h,1.0,Group,2,0,2
+es Sevilla,2020,a,0.2,Group,0,0,0
+de Dortmund,2020,a,1.3,Group,1,3,-2
+fr Rennes,2020,h,2.7,Group,1,1,0
+tr Başakşehir,2020,a,0.6,Group,0,2,-2
+ua Dynamo Kyiv,2020,h,0.5,Group,0,2,-2
+eng Chelsea,2020,h,0.4,Group,0,0,0
+it Juventus,2020,a,2.0,Group,2,0,2
+fr Paris S-G,2020,h,1.4,Group,1,2,-1
+be Club Brugge,2020,a,2.0,Group,2,1,1
+ru Krasnodar,2020,a,1.4,Group,1,1,0
+fr Paris S-G,2019,a,1.1,Final,0,1,-1
+de Bayern Munich,2019,a,1.5,Final,1,0,1
+fr Lyon,2019,a,1.8,Semi-finals,0,3,-3
+de Bayern Munich,2019,a,3.2,Semi-finals,3,0,3
+de RB Leipzig,2019,a,1.0,Semi-finals,0,3,-3
+fr Paris S-G,2019,a,3.2,Semi-finals,3,0,3
+eng Manchester City,2019,a,2.5,Quarter-finals,1,3,-2
+fr Lyon,2019,a,1.0,Quarter-finals,3,1,2
+es Barcelona,2019,a,1.1,Quarter-finals,2,8,-6
+de Bayern Munich,2019,a,5.3,Quarter-finals,8,2,6
+es Atlético Madrid,2019,a,1.1,Quarter-finals,1,2,-1
+de RB Leipzig,2019,a,0.9,Quarter-finals,2,1,1
+it Atalanta,2019,a,0.5,Quarter-finals,1,2,-1
+fr Paris S-G,2019,a,2.8,Quarter-finals,2,1,1
+eng Chelsea,2019,a,1.0,Rd of 16 Leg 2,1,4,-3
+it Napoli,2019,a,2.2,Rd of 16 Leg 2,1,3,-2
+de Bayern Munich,2019,h,2.9,Rd of 16 Leg 2,4,1,3
+es Barcelona,2019,h,1.1,Rd of 16 Leg 2,3,1,2
+es Real Madrid,2019,a,0.8,Rd of 16 Leg 2,1,2,-1
+it Juventus,2019,h,2.6,Rd of 16 Leg 2,2,1,1
+eng Manchester City,2019,h,2.1,Rd of 16 Leg 2,2,1,1
+fr Lyon,2019,a,1.0,Rd of 16 Leg 2,1,2,-1
+eng Liverpool,2019,h,3.4,Rd of 16 Leg 2,2,3,-1
+de Dortmund,2019,a,0.5,Rd of 16 Leg 2,0,2,-2
+es Atlético Madrid,2019,a,1.1,Rd of 16 Leg 2,3,2,1
+fr Paris S-G,2019,h,1.2,Rd of 16 Leg 2,2,0,2
+eng Tottenham,2019,a,0.3,Rd of 16 Leg 2,0,3,-3
+es Valencia,2019,h,2.2,Rd of 16 Leg 2,3,4,-1
+it Atalanta,2019,a,2.7,Rd of 16 Leg 2,4,3,1
+de RB Leipzig,2019,h,0.9,Rd of 16 Leg 2,3,0,3
+es Real Madrid,2019,h,1.2,Rd of 16 Leg 1,1,2,-1
+it Juventus,2019,a,1.1,Rd of 16 Leg 1,0,1,-1
+eng Manchester City,2019,a,3.2,Rd of 16 Leg 1,2,1,1
+fr Lyon,2019,h,1.1,Rd of 16 Leg 1,1,0,1
+eng Chelsea,2019,h,1.1,Rd of 16 Leg 1,0,3,-3
+it Napoli,2019,h,0.7,Rd of 16 Leg 1,1,1,0
+de Bayern Munich,2019,a,3.4,Rd of 16 Leg 1,3,0,3
+es Barcelona,2019,a,1.6,Rd of 16 Leg 1,1,1,0
+eng Tottenham,2019,h,1.1,Rd of 16 Leg 1,0,1,-1
+es Valencia,2019,a,2.5,Rd of 16 Leg 1,1,4,-3
+it Atalanta,2019,h,1.8,Rd of 16 Leg 1,4,1,3
+de RB Leipzig,2019,a,2.1,Rd of 16 Leg 1,1,0,1
+eng Liverpool,2019,a,0.5,Rd of 16 Leg 1,0,1,-1
+de Dortmund,2019,h,1.3,Rd of 16 Leg 1,2,1,1
+es Atlético Madrid,2019,h,1.2,Rd of 16 Leg 1,1,0,1
+fr Paris S-G,2019,a,1.5,Rd of 16 Leg 1,1,2,-1
+de Bayern Munich,2019,h,2.9,Group,3,1,2
+rs Red Star,2019,a,1.2,Group,0,1,-1
+gr Olympiacos,2019,h,3.5,Group,1,0,1
+eng Tottenham,2019,a,1.0,Group,1,3,-2
+es Real Madrid,2019,a,1.2,Group,3,1,2
+ru Loko Moscow,2019,a,0.1,Group,0,2,-2
+it Atalanta,2019,a,2.9,Group,3,0,3
+eng Manchester City,2019,a,3.6,Group,4,1,3
+de Leverkusen,2019,h,2.2,Group,0,2,-2
+es Atlético Madrid,2019,h,3.2,Group,2,0,2
+it Juventus,2019,a,0.9,Group,2,0,2
+fr Paris S-G,2019,h,4.4,Group,5,0,5
+ua Shakhtar,2019,h,0.6,Group,0,3,-3
+tr Galatasaray,2019,a,0.3,Group,0,5,-5
+hr Dinamo Zagreb,2019,h,0.4,Group,1,4,-3
+be Club Brugge,2019,h,1.0,Group,1,3,-2
+cz Slavia Prague,2019,a,2.8,Group,1,2,-1
+nl Ajax,2019,h,1.2,Group,0,1,-1
+be Genk,2019,a,1.8,Group,0,4,-4
+es Barcelona,2019,a,1.5,Group,2,1,1
+at RB Salzburg,2019,h,0.7,Group,0,2,-2
+eng Liverpool,2019,a,3.4,Group,2,0,2
+ru Zenit,2019,a,0.1,Group,0,3,-3
+pt Benfica,2019,h,2.4,Group,3,0,3
+de RB Leipzig,2019,a,3.4,Group,2,2,0
+de Dortmund,2019,h,2.9,Group,2,1,1
+fr Lille,2019,a,0.3,Group,1,2,-1
+eng Chelsea,2019,h,2.7,Group,2,1,1
+it Napoli,2019,h,3.0,Group,4,0,4
+fr Lyon,2019,h,1.1,Group,2,2,0
+it Inter,2019,h,1.7,Group,1,2,-1
+es Valencia,2019,a,1.1,Group,1,0,1
+cz Slavia Prague,2019,h,2.4,Group,1,3,-2
+nl Ajax,2019,a,1.6,Group,2,0,2
+be Genk,2019,h,1.6,Group,1,4,-3
+es Barcelona,2019,h,2.4,Group,3,1,2
+at RB Salzburg,2019,a,3.0,Group,4,1,3
+eng Liverpool,2019,h,0.8,Group,1,1,0
+ru Zenit,2019,h,0.9,Group,2,0,2
+pt Benfica,2019,a,0.9,Group,2,2,0
+de RB Leipzig,2019,h,3.2,Group,2,2,0
+de Dortmund,2019,a,1.6,Group,1,3,-2
+fr Lille,2019,h,2.4,Group,0,2,-2
+eng Chelsea,2019,a,2.1,Group,2,2,0
+it Napoli,2019,a,0.5,Group,1,1,0
+fr Lyon,2019,a,0.6,Group,0,2,-2
+it Inter,2019,a,2.3,Group,3,1,2
+es Valencia,2019,h,3.1,Group,2,2,0
+de Bayern Munich,2019,a,4.9,Group,6,0,6
+rs Red Star,2019,h,0.2,Group,0,6,-6
+gr Olympiacos,2019,a,1.2,Group,2,4,-2
+eng Tottenham,2019,h,2.2,Group,4,2,2
+es Real Madrid,2019,h,3.9,Group,2,2,0
+ru Loko Moscow,2019,h,1.0,Group,0,2,-2
+it Atalanta,2019,h,3.0,Group,2,0,2
+eng Manchester City,2019,h,1.2,Group,1,1,0
+de Leverkusen,2019,a,0.7,Group,2,0,2
+es Atlético Madrid,2019,a,0.7,Group,0,1,-1
+it Juventus,2019,h,0.4,Group,1,0,1
+fr Paris S-G,2019,a,2.4,Group,2,2,0
+ua Shakhtar,2019,a,1.0,Group,1,1,0
+tr Galatasaray,2019,h,0.9,Group,1,1,0
+hr Dinamo Zagreb,2019,a,0.3,Group,0,2,-2
+be Club Brugge,2019,a,1.1,Group,1,1,0
+de Bayern Munich,2019,h,3.3,Group,2,0,2
+rs Red Star,2019,h,0.5,Group,0,4,-4
+gr Olympiacos,2019,a,0.2,Group,0,2,-2
+eng Tottenham,2019,a,2.5,Group,4,0,4
+es Real Madrid,2019,h,4.2,Group,6,0,6
+ru Loko Moscow,2019,h,2.4,Group,1,2,-1
+it Atalanta,2019,h,0.7,Group,1,1,0
+eng Manchester City,2019,a,2.0,Group,1,1,0
+de Leverkusen,2019,h,1.3,Group,2,1,1
+es Atlético Madrid,2019,a,2.0,Group,1,2,-1
+it Juventus,2019,a,2.4,Group,2,1,1
+fr Paris S-G,2019,h,1.9,Group,1,0,1
+ua Shakhtar,2019,a,2.7,Group,3,3,0
+tr Galatasaray,2019,a,0.6,Group,0,6,-6
+hr Dinamo Zagreb,2019,h,2.0,Group,3,3,0
+be Club Brugge,2019,a,1.8,Group,0,1,-1
+cz Slavia Prague,2019,a,0.3,Group,0,0,0
+nl Ajax,2019,a,1.0,Group,4,4,0
+be Genk,2019,a,0.7,Group,1,2,-1
+es Barcelona,2019,h,2.3,Group,0,0,0
+at RB Salzburg,2019,a,1.5,Group,1,1,0
+eng Liverpool,2019,h,2.3,Group,2,1,1
+ru Zenit,2019,h,1.2,Group,0,2,-2
+pt Benfica,2019,a,1.3,Group,1,3,-2
+de RB Leipzig,2019,a,1.4,Group,2,0,2
+de Dortmund,2019,h,3.5,Group,3,2,1
+fr Lille,2019,a,1.5,Group,1,4,-3
+eng Chelsea,2019,h,4.8,Group,4,4,0
+it Napoli,2019,h,2.7,Group,1,1,0
+fr Lyon,2019,h,1.4,Group,3,1,2
+it Inter,2019,a,1.4,Group,2,3,-1
+es Valencia,2019,h,2.3,Group,4,1,3
+cz Slavia Prague,2019,h,1.5,Group,1,2,-1
+nl Ajax,2019,h,0.5,Group,0,1,-1
+be Genk,2019,h,1.3,Group,1,4,-3
+es Barcelona,2019,a,2.5,Group,2,1,1
+at RB Salzburg,2019,h,2.7,Group,2,3,-1
+eng Liverpool,2019,a,2.5,Group,4,1,3
+ru Zenit,2019,a,0.7,Group,1,2,-1
+pt Benfica,2019,h,0.5,Group,2,1,1
+de RB Leipzig,2019,h,2.2,Group,2,1,1
+de Dortmund,2019,a,0.4,Group,0,2,-2
+fr Lille,2019,h,1.9,Group,1,1,0
+eng Chelsea,2019,a,1.6,Group,1,0,1
+it Napoli,2019,a,0.9,Group,3,2,1
+fr Lyon,2019,a,1.5,Group,1,2,-1
+it Inter,2019,h,2.1,Group,2,0,2
+es Valencia,2019,a,0.6,Group,1,1,0
+de Bayern Munich,2019,a,2.6,Group,3,2,1
+rs Red Star,2019,a,0.6,Group,0,5,-5
+gr Olympiacos,2019,h,0.5,Group,2,3,-1
+eng Tottenham,2019,h,3.7,Group,5,0,5
+es Real Madrid,2019,a,2.4,Group,1,0,1
+ru Loko Moscow,2019,a,0.7,Group,1,2,-1
+it Atalanta,2019,a,1.8,Group,1,5,-4
+eng Manchester City,2019,h,4.2,Group,5,1,4
+de Leverkusen,2019,a,0.5,Group,0,1,-1
+es Atlético Madrid,2019,h,0.8,Group,1,0,1
+it Juventus,2019,h,2.4,Group,2,1,1
+fr Paris S-G,2019,a,3.5,Group,5,0,5
+ua Shakhtar,2019,h,1.5,Group,2,2,0
+tr Galatasaray,2019,h,1.2,Group,0,1,-1
+hr Dinamo Zagreb,2019,a,2.1,Group,2,2,0
+be Club Brugge,2019,h,0.3,Group,0,5,-5
+cz Slavia Prague,2019,h,1.4,Group,0,2,-2
+nl Ajax,2019,a,1.7,Group,3,0,3
+be Genk,2019,h,0.7,Group,0,0,0
+es Barcelona,2019,h,1.5,Group,2,1,1
+at RB Salzburg,2019,a,1.6,Group,3,4,-1
+eng Liverpool,2019,h,2.5,Group,4,3,1
+ru Zenit,2019,h,2.1,Group,3,1,2
+pt Benfica,2019,a,1.2,Group,1,3,-2
+de RB Leipzig,2019,h,1.9,Group,0,2,-2
+de Dortmund,2019,a,0.8,Group,2,0,2
+fr Lille,2019,h,0.6,Group,1,2,-1
+eng Chelsea,2019,a,1.4,Group,2,1,1
+it Napoli,2019,a,3.2,Group,0,0,0
+fr Lyon,2019,a,1.5,Group,2,0,2
+it Inter,2019,a,1.1,Group,1,2,-1
+es Valencia,2019,h,2.0,Group,0,3,-3
+de Bayern Munich,2019,a,1.3,Group,7,2,5
+rs Red Star,2019,h,1.3,Group,3,1,2
+eng Manchester City,2019,h,3.6,Group,2,0,2
+de Leverkusen,2019,a,0.5,Group,0,3,-3
+es Atlético Madrid,2019,a,2.9,Group,2,0,2
+it Juventus,2019,h,1.2,Group,3,0,3
+fr Paris S-G,2019,a,2.6,Group,1,0,1
+ua Shakhtar,2019,a,1.5,Group,2,1,1
+tr Galatasaray,2019,h,0.5,Group,0,1,-1
+hr Dinamo Zagreb,2019,a,0.1,Group,0,2,-2
+it Juventus,2019,h,1.2,Group,3,0,3
+fr Paris S-G,2019,a,2.6,Group,1,0,1
+ua Shakhtar,2019,a,1.5,Group,2,1,1
+tr Galatasaray,2019,h,0.5,Group,0,1,-1
+hr Dinamo Zagreb,2019,a,0.1,Group,0,2,-2
+be Club Brugge,2019,a,1.4,Group,2,2,0
+de Bayern Munich,2019,h,4.3,Group,3,0,3
+rs Red Star,2019,a,0.3,Group,0,3,-3
+gr Olympiacos,2019,h,1.7,Group,2,2,0
+eng Tottenham,2019,a,1.7,Group,2,2,0
+es Real Madrid,2019,a,0.6,Group,0,3,-3
+ru Loko Moscow,2019,a,0.9,Group,2,1,1
+it Atalanta,2019,a,1.8,Group,0,4,-4
+eng Manchester City,2019,a,2.5,Group,3,0,3
+de Leverkusen,2019,h,1.5,Group,1,2,-1
+es Atlético Madrid,2019,h,2.3,Group,2,2,0
+it Juventus,2019,a,1.1,Group,2,2,0
+fr Paris S-G,2019,h,1.7,Group,3,0,3
+ua Shakhtar,2019,h,0.9,Group,0,3,-3
+tr Galatasaray,2019,a,0.6,Group,0,0,0
+hr Dinamo Zagreb,2019,h,2.7,Group,4,0,4
+be Club Brugge,2019,h,1.7,Group,0,0,0
+cz Slavia Prague,2019,a,1.0,Group,1,1,0
+nl Ajax,2019,h,1.5,Group,3,0,3
+be Genk,2019,a,0.7,Group,2,6,-4
+es Barcelona,2019,a,0.4,Group,0,0,0
+at RB Salzburg,2019,h,4.3,Group,6,2,4
+eng Liverpool,2019,a,0.7,Group,0,2,-2
+ru Zenit,2019,a,1.0,Group,1,1,0
+pt Benfica,2019,h,1.8,Group,1,2,-1
+de RB Leipzig,2019,a,1.0,Group,2,1,1
+de Dortmund,2019,h,3.4,Group,0,0,0
+fr Lille,2019,a,2.0,Group,0,3,-3
+eng Chelsea,2019,h,2.8,Group,0,1,-1
+it Napoli,2019,h,1.8,Group,2,0,2
+fr Lyon,2019,h,1.6,Group,1,1,0
+it Inter,2019,h,1.4,Group,1,1,0
+es Valencia,2019,a,1.0,Group,1,0,1
+eng Tottenham,2018,a,0.8,Final,0,2,-2
+eng Liverpool,2018,a,1.3,Final,2,0,2
+nl Ajax,2018,h,1.6,Semi-finals Leg 2,2,3,-1
+eng Tottenham,2018,a,4.2,Semi-finals Leg 2,3,2,1
+es Barcelona,2018,a,1.4,Semi-finals Leg 2,0,4,-4
+eng Liverpool,2018,h,2.3,Semi-finals Leg 2,4,0,4
+es Barcelona,2018,h,2.4,Semi-finals Leg 1,3,0,3
+eng Liverpool,2018,a,1.8,Semi-finals Leg 1,0,3,-3
+nl Ajax,2018,a,1.3,Semi-finals Leg 1,1,0,1
+eng Tottenham,2018,h,0.6,Semi-finals Leg 1,0,1,-1
+pt Porto,2018,h,1.0,Quarter-finals Leg 2,1,4,-3
+eng Manchester City,2018,h,2.5,Quarter-finals Leg 2,4,3,1
+eng Tottenham,2018,a,0.7,Quarter-finals Leg 2,3,4,-1
+eng Liverpool,2018,a,3.5,Quarter-finals Leg 2,4,1,3
+eng Manchester Utd,2018,a,0.4,Quarter-finals Leg 2,0,3,-3
+it Juventus,2018,h,0.8,Quarter-finals Leg 2,1,2,-1
+nl Ajax,2018,a,2.2,Quarter-finals Leg 2,2,1,1
+es Barcelona,2018,h,1.4,Quarter-finals Leg 2,3,0,3
+eng Manchester Utd,2018,h,0.5,Quarter-finals Leg 1,0,1,-1
+it Juventus,2018,a,0.7,Quarter-finals Leg 1,1,1,0
+nl Ajax,2018,h,1.2,Quarter-finals Leg 1,1,1,0
+es Barcelona,2018,a,1.1,Quarter-finals Leg 1,1,0,1
+pt Porto,2018,a,0.8,Quarter-finals Leg 1,0,2,-2
+eng Manchester City,2018,a,1.3,Quarter-finals Leg 1,0,1,-1
+eng Tottenham,2018,h,0.9,Quarter-finals Leg 1,1,0,1
+eng Liverpool,2018,h,2.3,Quarter-finals Leg 1,2,0,2
+de Bayern Munich,2018,h,0.3,Rd of 16 Leg 2,1,3,-2
+fr Lyon,2018,a,0.6,Rd of 16 Leg 2,1,5,-4
+es Barcelona,2018,h,4.3,Rd of 16 Leg 2,5,1,4
+eng Liverpool,2018,a,1.1,Rd of 16 Leg 2,3,1,2
+de Schalke 04,2018,a,0.1,Rd of 16 Leg 2,0,7,-7
+es Atlético Madrid,2018,a,0.4,Rd of 16 Leg 2,0,3,-3
+eng Manchester City,2018,h,3.7,Rd of 16 Leg 2,7,0,7
+it Juventus,2018,h,2.5,Rd of 16 Leg 2,3,0,3
+it Roma,2018,a,1.9,Rd of 16 Leg 2,1,3,-2
+fr Paris S-G,2018,h,1.4,Rd of 16 Leg 2,1,3,-2
+eng Manchester Utd,2018,a,2.1,Rd of 16 Leg 2,3,1,2
+pt Porto,2018,h,4.2,Rd of 16 Leg 2,3,1,2
+es Real Madrid,2018,h,2.5,Rd of 16 Leg 2,1,4,-3
+de Dortmund,2018,h,1.4,Rd of 16 Leg 2,0,1,-1
+nl Ajax,2018,a,2.6,Rd of 16 Leg 2,4,1,3
+eng Tottenham,2018,a,1.0,Rd of 16 Leg 2,1,0,1
+de Schalke 04,2018,h,1.8,Rd of 16 Leg 1,2,3,-1
+es Atlético Madrid,2018,h,1.4,Rd of 16 Leg 1,2,0,2
+eng Manchester City,2018,a,1.6,Rd of 16 Leg 1,3,2,1
+it Juventus,2018,a,0.7,Rd of 16 Leg 1,0,2,-2
+de Bayern Munich,2018,a,0.4,Rd of 16 Leg 1,0,0,0
+fr Lyon,2018,h,0.3,Rd of 16 Leg 1,0,0,0
+es Barcelona,2018,a,2.1,Rd of 16 Leg 1,0,0,0
+eng Liverpool,2018,h,2.1,Rd of 16 Leg 1,0,0,0
+es Real Madrid,2018,a,1.5,Rd of 16 Leg 1,2,1,1
+de Dortmund,2018,a,0.3,Rd of 16 Leg 1,0,3,-3
+nl Ajax,2018,h,2.2,Rd of 16 Leg 1,1,2,-1
+eng Tottenham,2018,h,1.8,Rd of 16 Leg 1,3,0,3
+it Roma,2018,h,1.5,Rd of 16 Leg 1,2,1,1
+fr Paris S-G,2018,a,2.5,Rd of 16 Leg 1,2,0,2
+eng Manchester Utd,2018,h,0.4,Rd of 16 Leg 1,0,2,-2
+pt Porto,2018,a,0.6,Rd of 16 Leg 1,1,2,-1
+cz Viktoria Plzeň,2018,h,2.0,Group,2,1,1
+de Hoffenheim,2018,a,1.4,Group,1,2,-1
+de Bayern Munich,2018,a,3.1,Group,3,3,0
+eng Manchester Utd,2018,a,1.8,Group,1,2,-1
+nl Ajax,2018,h,3.0,Group,3,3,0
+ch Young Boys,2018,h,1.2,Group,2,1,1
+es Real Madrid,2018,h,1.3,Group,0,3,-3
+pt Benfica,2018,h,1.8,Group,1,0,1
+eng Manchester City,2018,h,3.4,Group,2,1,1
+it Roma,2018,a,1.1,Group,1,2,-1
+gr AEK Athens,2018,a,0.4,Group,0,1,-1
+fr Lyon,2018,a,1.3,Group,1,1,0
+es Valencia,2018,h,1.4,Group,2,1,1
+it Juventus,2018,a,2.1,Group,1,2,-1
+ua Shakhtar,2018,h,1.1,Group,1,1,0
+ru CSKA Moscow,2018,a,0.9,Group,3,0,3
+rs Red Star,2018,h,0.4,Group,1,4,-3
+es Barcelona,2018,h,1.3,Group,1,1,0
+eng Tottenham,2018,a,2.4,Group,1,1,0
+ru Loko Moscow,2018,a,0.7,Group,0,1,-1
+pt Porto,2018,a,1.7,Group,3,2,1
+eng Liverpool,2018,h,3.0,Group,1,0,1
+de Dortmund,2018,a,2.6,Group,2,0,2
+de Schalke 04,2018,h,2.1,Group,1,0,1
+it Napoli,2018,a,1.2,Group,0,1,-1
+it Inter,2018,h,1.9,Group,1,1,0
+es Atlético Madrid,2018,a,0.4,Group,0,0,0
+fr Paris S-G,2018,a,2.9,Group,4,1,3
+nl PSV Eindhoven,2018,a,1.2,Group,1,1,0
+tr Galatasaray,2018,h,3.9,Group,2,3,-1
+be Club Brugge,2018,h,0.6,Group,0,0,0
+fr Monaco,2018,h,0.6,Group,0,2,-2
+rs Red Star,2018,a,0.8,Group,1,3,-2
+es Barcelona,2018,a,2.4,Group,2,1,1
+eng Tottenham,2018,h,1.3,Group,1,0,1
+ru Loko Moscow,2018,h,1.4,Group,2,0,2
+pt Porto,2018,h,1.6,Group,3,1,2
+eng Liverpool,2018,a,1.3,Group,1,2,-1
+de Dortmund,2018,h,1.2,Group,0,0,0
+de Schalke 04,2018,a,0.9,Group,1,3,-2
+it Napoli,2018,h,2.4,Group,3,1,2
+it Inter,2018,a,1.0,Group,0,1,-1
+es Atlético Madrid,2018,h,0.9,Group,2,0,2
+fr Paris S-G,2018,h,1.5,Group,2,1,1
+nl PSV Eindhoven,2018,h,3.0,Group,1,2,-1
+tr Galatasaray,2018,a,1.3,Group,0,2,-2
+be Club Brugge,2018,a,0.3,Group,0,0,0
+fr Monaco,2018,a,1.3,Group,0,2,-2
+cz Viktoria Plzeň,2018,a,2.0,Group,2,1,1
+de Hoffenheim,2018,h,1.3,Group,2,3,-1
+de Bayern Munich,2018,h,1.9,Group,5,1,4
+eng Manchester Utd,2018,h,1.3,Group,1,0,1
+nl Ajax,2018,a,2.2,Group,2,0,2
+ch Young Boys,2018,a,0.6,Group,0,1,-1
+es Real Madrid,2018,a,1.7,Group,2,0,2
+pt Benfica,2018,a,0.5,Group,1,5,-4
+eng Manchester City,2018,a,1.0,Group,2,2,0
+it Roma,2018,h,2.1,Group,0,2,-2
+gr AEK Athens,2018,h,0.4,Group,0,2,-2
+fr Lyon,2018,h,2.3,Group,2,2,0
+es Valencia,2018,a,0.3,Group,0,1,-1
+it Juventus,2018,h,1.8,Group,1,0,1
+ua Shakhtar,2018,a,2.1,Group,3,2,1
+ru CSKA Moscow,2018,h,2.2,Group,1,2,-1
+cz Viktoria Plzeň,2018,h,0.5,Group,0,5,-5
+de Hoffenheim,2018,a,1.9,Group,2,2,0
+de Bayern Munich,2018,h,2.7,Group,2,0,2
+eng Manchester Utd,2018,a,0.8,Group,2,1,1
+nl Ajax,2018,a,1.6,Group,1,1,0
+ch Young Boys,2018,a,1.0,Group,1,3,-2
+es Real Madrid,2018,a,1.6,Group,5,0,5
+pt Benfica,2018,h,1.4,Group,1,1,0
+eng Manchester City,2018,h,3.4,Group,6,0,6
+it Roma,2018,a,2.4,Group,2,1,1
+gr AEK Athens,2018,a,0.4,Group,0,2,-2
+fr Lyon,2018,h,2.5,Group,2,2,0
+es Valencia,2018,h,1.8,Group,3,1,2
+it Juventus,2018,h,1.9,Group,1,2,-1
+ua Shakhtar,2018,a,0.4,Group,0,6,-6
+ru CSKA Moscow,2018,h,1.1,Group,1,2,-1
+rs Red Star,2018,h,0.7,Group,2,0,2
+es Barcelona,2018,a,1.6,Group,1,1,0
+eng Tottenham,2018,h,3.5,Group,2,1,1
+ru Loko Moscow,2018,a,0.7,Group,1,4,-3
+pt Porto,2018,h,1.4,Group,4,1,3
+eng Liverpool,2018,a,2.2,Group,0,2,-2
+de Dortmund,2018,a,0.6,Group,0,2,-2
+de Schalke 04,2018,h,1.5,Group,2,0,2
+it Napoli,2018,h,2.0,Group,1,1,0
+it Inter,2018,h,1.0,Group,1,1,0
+es Atlético Madrid,2018,h,1.5,Group,2,0,2
+fr Paris S-G,2018,a,1.3,Group,1,1,0
+nl PSV Eindhoven,2018,a,0.6,Group,1,2,-1
+tr Galatasaray,2018,a,0.7,Group,0,2,-2
+be Club Brugge,2018,a,1.9,Group,4,0,4
+fr Monaco,2018,h,1.1,Group,0,4,-4
+rs Red Star,2018,a,0.5,Group,0,4,-4
+es Barcelona,2018,h,2.2,Group,2,0,2
+eng Tottenham,2018,a,2.0,Group,2,2,0
+ru Loko Moscow,2018,h,2.1,Group,1,3,-2
+pt Porto,2018,a,1.5,Group,3,1,2
+eng Liverpool,2018,h,5.0,Group,4,0,4
+de Dortmund,2018,h,2.0,Group,4,0,4
+de Schalke 04,2018,a,2.2,Group,0,0,0
+it Napoli,2018,a,1.7,Group,2,2,0
+it Inter,2018,a,1.0,Group,0,2,-2
+es Atlético Madrid,2018,a,0.6,Group,0,4,-4
+fr Paris S-G,2018,h,1.1,Group,2,2,0
+nl PSV Eindhoven,2018,h,0.9,Group,2,2,0
+tr Galatasaray,2018,h,0.6,Group,0,0,0
+be Club Brugge,2018,h,1.5,Group,1,1,0
+fr Monaco,2018,a,0.8,Group,1,1,0
+cz Viktoria Plzeň,2018,a,1.6,Group,1,2,-1
+de Hoffenheim,2018,h,4.1,Group,3,3,0
+de Bayern Munich,2018,a,2.3,Group,2,0,2
+eng Manchester Utd,2018,h,0.3,Group,0,1,-1
+nl Ajax,2018,h,1.5,Group,1,0,1
+ch Young Boys,2018,h,1.9,Group,1,1,0
+es Real Madrid,2018,h,2.6,Group,2,1,1
+pt Benfica,2018,a,0.7,Group,0,1,-1
+eng Manchester City,2018,a,2.6,Group,3,0,3
+it Roma,2018,h,2.3,Group,3,0,3
+gr AEK Athens,2018,h,0.3,Group,0,2,-2
+fr Lyon,2018,a,1.5,Group,3,3,0
+es Valencia,2018,a,0.9,Group,1,1,0
+it Juventus,2018,a,1.3,Group,1,0,1
+ua Shakhtar,2018,h,1.1,Group,0,3,-3
+ru CSKA Moscow,2018,a,0.5,Group,0,3,-3
+rs Red Star,2018,a,0.3,Group,1,6,-5
+es Barcelona,2018,a,1.4,Group,4,2,2
+eng Tottenham,2018,h,0.5,Group,2,4,-2
+ru Loko Moscow,2018,h,0.7,Group,0,1,-1
+pt Porto,2018,h,1.8,Group,1,0,1
+eng Liverpool,2018,a,0.1,Group,0,1,-1
+de Dortmund,2018,h,3.2,Group,3,0,3
+de Schalke 04,2018,a,1.0,Group,1,0,1
+it Napoli,2018,h,1.9,Group,1,0,1
+it Inter,2018,a,2.6,Group,2,1,1
+es Atlético Madrid,2018,h,1.8,Group,3,1,2
+fr Paris S-G,2018,h,5.4,Group,6,1,5
+nl PSV Eindhoven,2018,h,0.7,Group,1,2,-1
+tr Galatasaray,2018,a,1.5,Group,0,1,-1
+be Club Brugge,2018,a,0.6,Group,1,3,-2
+fr Monaco,2018,a,0.5,Group,0,3,-3
+cz Viktoria Plzeň,2018,a,0.3,Group,0,5,-5
+de Hoffenheim,2018,h,0.6,Group,1,2,-1
+de Bayern Munich,2018,h,1.5,Group,1,1,0
+eng Manchester Utd,2018,h,0.9,Group,0,0,0
+nl Ajax,2018,a,1.2,Group,1,1,0
+ch Young Boys,2018,a,0.2,Group,0,3,-3
+es Real Madrid,2018,a,2.2,Group,0,1,-1
+pt Benfica,2018,a,1.2,Group,3,2,1
+eng Manchester City,2018,a,2.2,Group,2,1,1
+it Roma,2018,h,3.1,Group,5,0,5
+gr AEK Athens,2018,h,2.8,Group,2,3,-1
+fr Lyon,2018,h,2.8,Group,2,2,0
+es Valencia,2018,a,0.4,Group,0,0,0
+it Juventus,2018,h,3.3,Group,3,0,3
+ua Shakhtar,2018,a,1.6,Group,2,2,0
+ru CSKA Moscow,2018,h,0.4,Group,1,0,1
+cz Viktoria Plzeň,2018,h,1.5,Group,2,2,0
+de Hoffenheim,2018,a,1.8,Group,2,2,0
+de Bayern Munich,2018,a,2.4,Group,2,0,2
+eng Manchester Utd,2018,a,2.0,Group,3,0,3
+nl Ajax,2018,h,1.7,Group,3,0,3
+ch Young Boys,2018,h,1.7,Group,0,3,-3
+es Real Madrid,2018,h,3.5,Group,3,0,3
+pt Benfica,2018,h,0.7,Group,0,2,-2
+eng Manchester City,2018,h,1.2,Group,1,2,-1
+it Roma,2018,a,0.6,Group,0,3,-3
+gr AEK Athens,2018,a,0.4,Group,0,3,-3
+fr Lyon,2018,a,0.8,Group,2,1,1
+es Valencia,2018,h,2.0,Group,0,2,-2
+it Juventus,2018,a,3.7,Group,2,0,2
+ua Shakhtar,2018,h,0.6,Group,2,2,0
+ru CSKA Moscow,2018,a,1.7,Group,2,2,0
+rs Red Star,2018,h,0.2,Group,0,0,0
+es Barcelona,2018,h,1.5,Group,4,0,4
+eng Tottenham,2018,a,0.8,Group,1,2,-1
+ru Loko Moscow,2018,a,0.9,Group,0,3,-3
+pt Porto,2018,a,2.2,Group,1,1,0
+eng Liverpool,2018,h,2.3,Group,3,2,1
+de Dortmund,2018,a,1.0,Group,1,0,1
+de Schalke 04,2018,h,0.9,Group,1,1,0
+it Napoli,2018,a,1.6,Group,0,0,0
+it Inter,2018,h,1.2,Group,2,1,1
+es Atlético Madrid,2018,a,0.9,Group,2,1,1
+fr Paris S-G,2018,a,0.8,Group,2,3,-1
+nl PSV Eindhoven,2018,a,0.7,Group,0,4,-4
+tr Galatasaray,2018,h,1.8,Group,3,0,3
+be Club Brugge,2018,h,0.6,Group,0,1,-1
+fr Monaco,2018,h,0.7,Group,1,2,-1
+eng Liverpool,2017,a,1.9,Final,1,3,-2
+es Real Madrid,2017,a,1.5,Final,3,1,2
+it Roma,2017,h,2.4,Semi-finals Leg 2,4,2,2
+eng Liverpool,2017,a,1.6,Semi-finals Leg 2,2,4,-2
+de Bayern Munich,2017,a,3.0,Semi-finals Leg 2,2,2,0
+es Real Madrid,2017,h,1.8,Semi-finals Leg 2,2,2,0
+de Bayern Munich,2017,h,1.9,Semi-finals Leg 1,1,2,-1
+es Real Madrid,2017,a,0.7,Semi-finals Leg 1,2,1,1
+it Roma,2017,a,1.9,Semi-finals Leg 1,2,5,-3
+eng Liverpool,2017,h,3.7,Semi-finals Leg 1,5,2,3
+es Sevilla,2017,a,0.6,Quarter-finals Leg 2,0,0,0
+it Juventus,2017,a,2.7,Quarter-finals Leg 2,3,1,2
+de Bayern Munich,2017,h,1.2,Quarter-finals Leg 2,0,0,0
+es Real Madrid,2017,h,2.7,Quarter-finals Leg 2,1,3,-2
+es Barcelona,2017,a,0.9,Quarter-finals Leg 2,0,3,-3
+eng Manchester City,2017,h,1.2,Quarter-finals Leg 2,1,2,-1
+eng Liverpool,2017,a,0.8,Quarter-finals Leg 2,2,1,1
+it Roma,2017,h,2.7,Quarter-finals Leg 2,3,0,3
+es Barcelona,2017,h,1.9,Quarter-finals Leg 1,4,1,3
+eng Manchester City,2017,a,0.6,Quarter-finals Leg 1,0,3,-3
+eng Liverpool,2017,h,1.6,Quarter-finals Leg 1,3,0,3
+it Roma,2017,a,1.7,Quarter-finals Leg 1,1,4,-3
+es Sevilla,2017,h,0.9,Quarter-finals Leg 1,1,2,-1
+it Juventus,2017,h,1.6,Quarter-finals Leg 1,0,3,-3
+de Bayern Munich,2017,a,1.4,Quarter-finals Leg 1,2,1,1
+es Real Madrid,2017,a,3.1,Quarter-finals Leg 1,3,0,3
+tr Beşiktaş,2017,h,1.2,Rd of 16 Leg 2,1,3,-2
+eng Chelsea,2017,a,0.7,Rd of 16 Leg 2,0,3,-3
+de Bayern Munich,2017,a,2.1,Rd of 16 Leg 2,3,1,2
+es Barcelona,2017,h,1.0,Rd of 16 Leg 2,3,0,3
+eng Manchester Utd,2017,h,1.9,Rd of 16 Leg 2,1,2,-1
+ua Shakhtar,2017,a,0.2,Rd of 16 Leg 2,0,1,-1
+es Sevilla,2017,a,1.7,Rd of 16 Leg 2,2,1,1
+it Roma,2017,h,0.7,Rd of 16 Leg 2,1,0,1
+eng Tottenham,2017,h,1.7,Rd of 16 Leg 2,1,2,-1
+ch Basel,2017,a,0.6,Rd of 16 Leg 2,2,1,1
+eng Manchester City,2017,h,1.6,Rd of 16 Leg 2,1,2,-1
+it Juventus,2017,a,1.5,Rd of 16 Leg 2,2,1,1
+pt Porto,2017,a,0.6,Rd of 16 Leg 2,0,0,0
+fr Paris S-G,2017,h,1.1,Rd of 16 Leg 2,1,2,-1
+es Real Madrid,2017,a,2.2,Rd of 16 Leg 2,2,1,1
+eng Liverpool,2017,h,1.6,Rd of 16 Leg 2,0,0,0
+eng Manchester Utd,2017,a,0.7,Rd of 16 Leg 1,0,0,0
+ua Shakhtar,2017,h,1.7,Rd of 16 Leg 1,2,1,1
+es Sevilla,2017,h,2.0,Rd of 16 Leg 1,0,0,0
+it Roma,2017,a,1.8,Rd of 16 Leg 1,1,2,-1
+tr Beşiktaş,2017,a,0.3,Rd of 16 Leg 1,0,5,-5
+eng Chelsea,2017,h,0.5,Rd of 16 Leg 1,1,1,0
+de Bayern Munich,2017,h,4.9,Rd of 16 Leg 1,5,0,5
+es Barcelona,2017,a,0.6,Rd of 16 Leg 1,1,1,0
+pt Porto,2017,h,0.5,Rd of 16 Leg 1,0,5,-5
+fr Paris S-G,2017,a,1.0,Rd of 16 Leg 1,1,3,-2
+es Real Madrid,2017,h,2.4,Rd of 16 Leg 1,3,1,2
+eng Liverpool,2017,a,2.6,Rd of 16 Leg 1,5,0,5
+eng Tottenham,2017,a,1.8,Rd of 16 Leg 1,2,2,0
+ch Basel,2017,h,1.0,Rd of 16 Leg 1,0,4,-4
+eng Manchester City,2017,a,0.7,Rd of 16 Leg 1,4,0,4
+it Juventus,2017,h,2.5,Rd of 16 Leg 1,2,2,0
+tr Beşiktaş,2017,a,1.8,Group,2,1,1
+si NK Maribor,2017,h,0.8,Group,1,1,0
+eng Tottenham,2017,h,2.3,Group,3,0,3
+es Real Madrid,2017,h,2.7,Group,3,2,1
+pt Porto,2017,h,1.9,Group,5,2,3
+eng Liverpool,2017,h,4.2,Group,7,0,7
+ru Spartak Moscow,2017,a,0.6,Group,0,7,-7
+de RB Leipzig,2017,h,3.0,Group,1,2,-1
+es Sevilla,2017,a,1.7,Group,1,1,0
+de Dortmund,2017,a,1.7,Group,2,3,-1
+eng Manchester City,2017,a,1.7,Group,1,2,-1
+it Napoli,2017,a,1.3,Group,1,2,-1
+ua Shakhtar,2017,h,1.7,Group,2,1,1
+cy APOEL FC,2017,a,0.6,Group,0,3,-3
+nl Feyenoord,2017,h,0.7,Group,2,1,1
+fr Monaco,2017,a,1.7,Group,2,5,-3
+de Bayern Munich,2017,h,1.8,Group,3,1,2
+be Anderlecht,2017,a,0.7,Group,1,0,1
+pt Sporting CP,2017,a,1.0,Group,0,2,-2
+eng Manchester Utd,2017,h,2.9,Group,2,1,1
+es Barcelona,2017,h,1.2,Group,2,0,2
+gr Olympiacos,2017,h,1.0,Group,0,2,-2
+az Qarabağ,2017,a,0.4,Group,0,1,-1
+pt Benfica,2017,h,1.4,Group,0,2,-2
+sct Celtic,2017,h,0.8,Group,0,1,-1
+it Roma,2017,h,1.9,Group,1,0,1
+eng Chelsea,2017,h,2.9,Group,1,1,0
+ch Basel,2017,a,1.4,Group,2,0,2
+es Atlético Madrid,2017,a,1.0,Group,1,1,0
+it Juventus,2017,a,1.5,Group,2,0,2
+fr Paris S-G,2017,a,1.9,Group,1,3,-2
+ru CSKA Moscow,2017,a,0.8,Group,1,2,-1
+de Bayern Munich,2017,a,2.2,Group,2,1,1
+be Anderlecht,2017,h,1.8,Group,1,2,-1
+pt Sporting CP,2017,h,2.0,Group,3,1,2
+eng Manchester Utd,2017,a,1.5,Group,0,1,-1
+es Barcelona,2017,a,0.9,Group,0,0,0
+gr Olympiacos,2017,a,0.4,Group,1,3,-2
+az Qarabağ,2017,h,0.2,Group,0,4,-4
+pt Benfica,2017,a,1.0,Group,0,2,-2
+sct Celtic,2017,a,0.3,Group,1,7,-6
+it Roma,2017,a,0.5,Group,0,2,-2
+eng Chelsea,2017,a,3.9,Group,4,0,4
+ch Basel,2017,h,1.1,Group,1,0,1
+es Atlético Madrid,2017,h,1.4,Group,2,0,2
+it Juventus,2017,h,0.5,Group,0,0,0
+fr Paris S-G,2017,h,2.8,Group,7,1,6
+ru CSKA Moscow,2017,h,1.0,Group,2,0,2
+tr Beşiktaş,2017,h,0.7,Group,1,1,0
+si NK Maribor,2017,a,1.2,Group,1,1,0
+eng Tottenham,2017,a,1.1,Group,2,1,1
+es Real Madrid,2017,a,3.7,Group,6,0,6
+pt Porto,2017,a,0.7,Group,1,1,0
+eng Liverpool,2017,a,2.3,Group,3,3,0
+ru Spartak Moscow,2017,h,1.4,Group,1,1,0
+de RB Leipzig,2017,a,1.5,Group,4,1,3
+es Sevilla,2017,h,1.9,Group,3,3,0
+de Dortmund,2017,h,1.1,Group,1,2,-1
+eng Manchester City,2017,h,1.3,Group,1,0,1
+it Napoli,2017,h,1.9,Group,3,0,3
+ua Shakhtar,2017,a,0.5,Group,0,3,-3
+cy APOEL FC,2017,h,0.5,Group,0,6,-6
+nl Feyenoord,2017,a,0.3,Group,0,1,-1
+fr Monaco,2017,h,0.8,Group,1,4,-3
+tr Beşiktaş,2017,h,1.3,Group,1,1,0
+si NK Maribor,2017,a,0.3,Group,0,3,-3
+eng Tottenham,2017,h,2.3,Group,3,1,2
+es Real Madrid,2017,a,2.2,Group,1,3,-2
+pt Porto,2017,h,1.8,Group,3,1,2
+eng Liverpool,2017,h,2.7,Group,3,0,3
+ru Spartak Moscow,2017,a,1.2,Group,1,2,-1
+de RB Leipzig,2017,a,0.6,Group,1,3,-2
+es Sevilla,2017,h,0.9,Group,2,1,1
+de Dortmund,2017,h,2.8,Group,1,1,0
+eng Manchester City,2017,a,1.4,Group,4,2,2
+it Napoli,2017,h,2.1,Group,2,4,-2
+ua Shakhtar,2017,h,2.6,Group,3,1,2
+cy APOEL FC,2017,a,0.6,Group,1,1,0
+nl Feyenoord,2017,a,1.0,Group,1,3,-2
+fr Monaco,2017,a,1.0,Group,1,1,0
+de Bayern Munich,2017,a,0.7,Group,2,1,1
+be Anderlecht,2017,a,0.2,Group,0,5,-5
+pt Sporting CP,2017,h,0.5,Group,1,1,0
+eng Manchester Utd,2017,h,2.7,Group,2,0,2
+es Barcelona,2017,a,1.8,Group,0,0,0
+gr Olympiacos,2017,h,0.3,Group,0,0,0
+az Qarabağ,2017,a,0.2,Group,1,1,0
+pt Benfica,2017,a,0.9,Group,0,2,-2
+sct Celtic,2017,h,1.4,Group,1,2,-1
+it Roma,2017,h,1.5,Group,3,0,3
+eng Chelsea,2017,a,1.3,Group,0,3,-3
+ch Basel,2017,h,1.2,Group,1,2,-1
+es Atlético Madrid,2017,h,3.2,Group,1,1,0
+it Juventus,2017,a,2.0,Group,1,1,0
+fr Paris S-G,2017,h,2.6,Group,5,0,5
+ru CSKA Moscow,2017,a,1.3,Group,2,1,1
+de Bayern Munich,2017,h,3.2,Group,3,0,3
+be Anderlecht,2017,h,1.2,Group,0,4,-4
+pt Sporting CP,2017,a,0.5,Group,1,2,-1
+eng Manchester Utd,2017,a,0.6,Group,1,0,1
+es Barcelona,2017,h,3.5,Group,3,1,2
+gr Olympiacos,2017,a,0.2,Group,1,3,-2
+az Qarabağ,2017,h,0.4,Group,0,0,0
+pt Benfica,2017,h,0.5,Group,0,1,-1
+sct Celtic,2017,a,0.6,Group,0,3,-3
+it Roma,2017,a,1.6,Group,3,3,0
+eng Chelsea,2017,h,1.6,Group,3,3,0
+ch Basel,2017,a,1.4,Group,2,0,2
+es Atlético Madrid,2017,a,1.9,Group,0,0,0
+it Juventus,2017,h,1.5,Group,2,1,1
+fr Paris S-G,2017,a,3.3,Group,4,0,4
+ru CSKA Moscow,2017,h,0.4,Group,0,2,-2
+tr Beşiktaş,2017,a,1.2,Group,2,1,1
+si NK Maribor,2017,h,0.4,Group,0,7,-7
+eng Tottenham,2017,a,0.9,Group,1,1,0
+es Real Madrid,2017,h,2.9,Group,1,1,0
+pt Porto,2017,a,1.1,Group,2,3,-1
+eng Liverpool,2017,a,4.6,Group,7,0,7
+ru Spartak Moscow,2017,h,1.7,Group,5,1,4
+de RB Leipzig,2017,h,2.5,Group,3,2,1
+es Sevilla,2017,a,1.3,Group,1,5,-4
+de Dortmund,2017,a,2.1,Group,1,1,0
+eng Manchester City,2017,h,2.7,Group,2,1,1
+it Napoli,2017,a,2.2,Group,1,2,-1
+ua Shakhtar,2017,a,1.3,Group,2,1,1
+cy APOEL FC,2017,h,1.0,Group,1,1,0
+nl Feyenoord,2017,h,1.6,Group,1,2,-1
+fr Monaco,2017,h,0.7,Group,1,2,-1
+eng Manchester Utd,2017,a,4.3,Group,4,1,3
+ru CSKA Moscow,2017,h,0.6,Group,1,4,-3
+de Bayern Munich,2017,a,1.0,Group,0,3,-3
+be Anderlecht,2017,h,0.6,Group,0,3,-3
+pt Sporting CP,2017,h,0.7,Group,0,1,-1
+es Barcelona,2017,a,0.9,Group,1,0,1
+gr Olympiacos,2017,a,0.5,Group,0,2,-2
+az Qarabağ,2017,h,0.9,Group,1,2,-1
+pt Benfica,2017,a,0.4,Group,0,5,-5
+sct Celtic,2017,a,1.2,Group,3,0,3
+it Roma,2017,a,1.9,Group,2,1,1
+eng Chelsea,2017,a,2.5,Group,2,1,1
+ch Basel,2017,h,3.2,Group,5,0,5
+es Atlético Madrid,2017,h,1.4,Group,1,2,-1
+it Juventus,2017,h,2.3,Group,2,0,2
+fr Paris S-G,2017,h,2.0,Group,3,0,3
+tr Beşiktaş,2017,h,1.0,Group,2,0,2
+si NK Maribor,2017,a,0.4,Group,0,3,-3
+eng Tottenham,2017,a,1.8,Group,3,0,3
+es Real Madrid,2017,a,3.2,Group,3,1,2
+pt Porto,2017,a,2.9,Group,3,0,3
+eng Liverpool,2017,a,2.8,Group,1,1,0
+ru Spartak Moscow,2017,h,0.2,Group,1,1,0
+de RB Leipzig,2017,a,1.1,Group,0,2,-2
+es Sevilla,2017,h,3.9,Group,3,0,3
+de Dortmund,2017,h,1.2,Group,1,3,-2
+eng Manchester City,2017,h,3.2,Group,2,0,2
+it Napoli,2017,h,0.9,Group,3,1,2
+ua Shakhtar,2017,a,0.5,Group,0,2,-2
+cy APOEL FC,2017,h,1.0,Group,0,3,-3
+nl Feyenoord,2017,a,1.6,Group,1,3,-2
+fr Monaco,2017,h,0.6,Group,0,3,-3
+tr Beşiktaş,2017,a,0.9,Group,3,1,2
+si NK Maribor,2017,h,1.1,Group,1,1,0
+eng Tottenham,2017,h,1.2,Group,3,1,2
+es Real Madrid,2017,h,3.9,Group,3,0,3
+pt Porto,2017,h,1.5,Group,1,3,-2
+eng Liverpool,2017,h,2.4,Group,2,2,0
+ru Spartak Moscow,2017,a,1.8,Group,1,1,0
+de RB Leipzig,2017,h,0.9,Group,1,1,0
+es Sevilla,2017,a,1.2,Group,2,2,0
+de Dortmund,2017,a,0.8,Group,1,3,-2
+eng Manchester City,2017,a,1.3,Group,4,0,4
+it Napoli,2017,a,1.9,Group,1,2,-1
+ua Shakhtar,2017,h,1.4,Group,2,1,1
+cy APOEL FC,2017,a,0.2,Group,0,3,-3
+nl Feyenoord,2017,h,0.3,Group,0,4,-4
+fr Monaco,2017,a,1.1,Group,1,1,0
+de Bayern Munich,2017,h,4.2,Group,3,0,3
+be Anderlecht,2017,a,0.8,Group,0,3,-3
+pt Sporting CP,2017,a,2.6,Group,3,2,1
+eng Manchester Utd,2017,h,3.4,Group,3,0,3
+es Barcelona,2017,h,0.9,Group,3,0,3
+gr Olympiacos,2017,h,1.1,Group,2,3,-1
+az Qarabağ,2017,a,0.3,Group,0,6,-6
+pt Benfica,2017,h,2.1,Group,1,2,-1
+sct Celtic,2017,h,0.4,Group,0,5,-5
+it Roma,2017,h,0.5,Group,0,0,0
+eng Chelsea,2017,h,2.0,Group,6,0,6
+ch Basel,2017,a,0.6,Group,0,3,-3
+es Atlético Madrid,2017,a,2.4,Group,0,0,0
+it Juventus,2017,a,0.7,Group,0,3,-3
+fr Paris S-G,2017,a,2.5,Group,5,0,5
+ru CSKA Moscow,2017,a,1.6,Group,2,1,1
