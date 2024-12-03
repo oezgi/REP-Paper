@@ -2,9 +2,11 @@
 
 ## Introduction
 
-Briefly introduce the subject of the study, the problem it addresses, and the key results or insights obtained from the reproduction and replication effort.
+This analysis focuses on exploring the concept of home advantage in football and how it was impacted during the COVID-19 pandemic. Home advantage has long been a significant topic in sports science, with research attributing it to factors such as crowd support, travel fatigue, and referee bias. The COVID-19 pandemic provided a unique natural experiment, as matches were played in empty stadiums during 2019–2021, removing the influence of crowds.
 
-## Reproducibility
+By combining reproducibility with replication and introducing variability factors, this project not only validates the original findings but also extends their scope to new contexts. The results provide valuable insights into the dynamics of home advantage, offering a deeper understanding of how external factors like crowd absence can alter the competitive balance in football.
+
+## Reproducibility (TODO ALP)
 
 ### How to Reproduce the Results
 1. **Requirements**  
@@ -30,8 +32,9 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
    - Explain the included GitHub Action that produces or analyzes data automatically.  
     
 ### Encountered Issues and Improvements
-- Report any challenges, errors, or deviations from the original study.
-- In Wilcoxon and MannWhitneyU, instead of using "two-sided", in the original study, "less" was used. Different results in p-value because of the version of sciPy used.
+During the replication process, we faced challenges due to differences in the SciPy version used. The original study employed Wilcoxon and Mann-Whitney U tests with `alternative='less'`, while our initial setup used `alternative='two-sided'`, resulting in doubled p-values. To align with the original methodology, we downgraded SciPy to the appropriate version. This adjustment allowed us to replicate their statistical configuration, ensuring comparability in p-value interpretation.
+
+Despite these numerical differences, the key findings remained consistent: **home advantage significantly diminished during COVID-19 when matches were played without crowds**. This challenge underscored the importance of documenting software versions and methodological details in reproducing studies. It also illustrated the robustness of the original findings, as they held true even when tested with different software configurations.
 
 ### Is the Original Study Reproducible?
 - Summarize the success or failure of reproducing the study.
@@ -44,16 +47,15 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
   Example table:
   | Variability Factor | Possible Values     | Relevance                                   |
   |--------------------|---------------------|--------------------------------------------|
-  | EXAMPLE Random Seed        | [0, 42, 123]       | Impacts consistency of random processes    |
-  | Statistical Tests for Assessing Differences Between Home and Away Matches | | Alternative tests provide a broader view of the data’s characteristics which may affect the conclusions. |
+  | **Statistical Tests for Assessing Differences Between Home and Away Matches** | [Wilcoxon, Paired t-Test] | Different statistical tests highlight diverse characteristics of the data, impacting p-values and interpretations. |
+  | **Data Inclusion:** Post-COVID Data	| [2017–2020, 2017–2023] | Including post-COVID data (2020–2023) assesses whether home advantage returned to pre-COVID levels. |
+  | **League Selection:** Champions League | 	[Domestic Leagues, Champions League] | Adding the Champions League introduces better teams, higher stakes, and a broader dataset, testing generalizability. |
 
 - **Constraints Across Factors**:  
-  - Document any constraints or interdependencies among variability factors.  
-    For example:
-    - Random Seed must align with dataset splits for consistent results.
-    - Hardware constraints may limit the choice of GPU-based factors.
+  - **Statistical Tests:** Tests like paired t-tests require balanced datasets with equal numbers of home and away matches.
+  - **League and Match Context:** Results from one league may not directly translate to another due to differences in formats and competitive environments.
 
-- **Exploring Variability Factors via CLI (Bonus)**  
+- **Exploring Variability Factors via CLI (Bonus) (TODO ALP??)**  
    - Provide instructions to use the command-line interface (CLI) to explore variability factors and their combinations:  
      ```bash
      python explore_variability.py --random-seed 42 --hardware GPU --dataset-version v1.1
@@ -64,8 +66,8 @@ Briefly introduce the subject of the study, the problem it addresses, and the ke
      - `--dataset-version`: Select the dataset version.
 
 
-### Replication Execution
-1. **Instructions**  
+### Replication Execution 
+1. **Instructions**  (TODO ALP)
    - Provide detailed steps or commands for running the replication(s):  
      ```bash
      bash scripts/replicate_experiment.sh
