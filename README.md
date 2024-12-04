@@ -36,18 +36,47 @@ By combining reproducibility with replication and introducing variability factor
     
     HTML outputs will be available in the `notebooks` directory.
 
-  - Open `notebooks/Reproduce.ipynb` and `notebooks/Replicate.ipynb` to execute the analysis step-by-step. 
+  - Open `notebooks/Reproduce.ipynb` and `notebooks/Replicate.ipynb` to execute the analysis step-by-step. Don't forget to verify that the versions of the dependencies on your local machine match the ones specified in `requirments.txt` file.
 
 ## Reproducibility
     
 ### Encountered Issues and Improvements
-During the replication process, we faced challenges due to differences in the SciPy version used. The original study employed Wilcoxon and Mann-Whitney U tests with `alternative='less'`, while our initial setup used `alternative='two-sided'`, resulting in doubled p-values. To align with the original methodology, we downgraded SciPy to the appropriate version. This adjustment allowed us to replicate their statistical configuration, ensuring comparability in p-value interpretation.
+While the results ultimately matched, we faced several challenges due to missing documentation in the original study and differences in our initial computational setup:
+
+1. **Data Extraction Process:** The resource for the data was specified, but the methodology for extracting and processing the data was not detailed. This initially caused discrepancies in data representation during our replication attempt.
+2. **Lack of Environmental Specifications:** The study did not specify the versions of software, libraries, or tools used. Differences in versions, particularly SciPy, resulted in variations in p-values and statistical test outputs in our early attempts. The original study employed Wilcoxon and Mann-Whitney U tests with `alternative='less'`, while our initial setup defaulted to `alternative='two-sided'`. This conflict led to doubled p-values and initially misaligned results.
+
+**Adjustments to Match Methodology:** To address these issues, we contacted the original author, who provided clarification on the data extraction process and the computational environment. We subsequently downgraded both SciPy and Python versions to match their setup, allowing us to replicate their statistical configuration. This adjustment ensured comparability in p-value interpretation and consistency with the original methodology.
 
 Despite these numerical differences, the key findings remained consistent: **home advantage significantly diminished during COVID-19 when matches were played without crowds**. This challenge underscored the importance of documenting software versions and methodological details in reproducing studies. It also illustrated the robustness of the original findings, as they held true even when tested with different software configurations.
 
 ### Is the Original Study Reproducible?
 - Summarize the success or failure of reproducing the study.
 - Include supporting evidence, such as comparison tables, plots, or metrics.
+
+The original study is **reproducible**, as our replicated analysis produced identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were fully confirmed.
+
+The original study analyzed the difference in points gained at home and away across multiple leagues and seasons, highlighting a largely positive home advantage for non-COVID seasons. Four key analyses were performed, which were successfully reproduced in this study with exact results:
+
+**Home vs. Away Points:** Differences between points gained at home and away were assessed. The results consistently showed a significant positive home advantage for all leagues in non-COVID seasons.
+
+<div align="center">
+  <img src="analysis-results/home-away-points.png" alt="Home vs. Away Points Results" title="Home vs. Away Points Results" width="200">
+</div>
+
+
+**Evolution of Mean Points per Match:** The mean points gained per match for home and away teams were plotted across seasons from 2014 to 2020, illustrating the steady trend of home advantage and its disruption during COVID seasons.
+
+<div align="center">
+  <img src="analysis-results/evolution-mean-points.jpg" alt="Evolution of Mean Points per Match" title="Evolution of Mean Points per Match" width="500">
+</div>
+
+
+**Comparison Across All Leagues and Seasons:** Wilcoxon Signed-Rank tests were applied to assess the differences between home and away matches for points, xPoints, and xG across all leagues and seasons. Effect sizes were calculated using Cohen’s d to quantify the magnitude of these differences. The results consistently demonstrated a significant home advantage in non-COVID seasons.
+
+**Seasonal Comparison Within Each League:** Mann-Whitney U tests were conducted to evaluate differences between seasons for each league. These tests focused on actual results at home and xPoints at home, capturing how home performance varied across seasons and highlighting the impact of the COVID-19 pandemic on home advantage.
+
+The replication successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
 
 ## Replicability
 
