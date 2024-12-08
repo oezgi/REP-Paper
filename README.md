@@ -110,7 +110,7 @@ We started by comparing the difference between home and away performance across 
 1. **DIFF_POINTS_HOMEAWAY:** The difference in points gained at home versus away for each season and league.
 2. **DIFF_XPOINTS_HOMEAWAY:** The difference in expected points (xPoints) gained at home versus away for each season and league.
 <div align="center">
-  <img src="analysis-results/home-away-postcovid.png" alt="Home vs. Away Points Results with Post-COVID Data" title="Home vs. Away Points Results with Post-COVID Data" width="400">
+  <img src="analysis-results/home-away-postcovid.png" alt="Home vs. Away Points Results with Post-COVID Data" title="Home vs. Away Points Results with Post-COVID Data" width="200">
 </div>
 
 From this chart, we can see that home advantage diminished significantly during the COVID season, possibly due to the absence of crowds. While crowds have returned post-COVID, the full restoration of home advantage is uneven across leagues, with some (like the EPL) showing stronger recovery than others (like Ligue 1, Serie A, and Bundesliga). This variability highlights the long-term impact of the pandemic on football dynamics, suggesting a lasting shift in how home advantage operates in some leagues.
