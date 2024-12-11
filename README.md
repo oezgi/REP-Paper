@@ -1,17 +1,17 @@
 # Reproducibility and Replicability Project : COVID and Home Advantage in Football
 Ezgi OZEL - Alp JAKOP  
-5INFO
+5 INFO
 
 # TODO
-- add photos for statistical analyses parts (reproduce and replicate)
-- add overall conclusion
+- high quality photos
+- add photos for statistical analyses parts (reproduce)
 - solve scipy version problem
-- get better resolution photos for some of the tables
-- do the Replicate / Presentation and Analysis of Results / Changing Statistical Tests for Assessing Differences Between Home and Away Matches part
 
 ## Introduction
 
 This analysis focuses on exploring the concept of home advantage in football and how it was impacted during the COVID-19 pandemic. Home advantage has long been a significant topic in sports science, with research attributing it to factors such as crowd support, travel fatigue, and referee bias. The COVID-19 pandemic provided a unique natural experiment, as matches were played in empty stadiums during 2019–2021, removing the influence of crowds.
+
+The original study on this topic was conducted by our professor, **Mathieu Acher**, and can be found here: https://blog.mathieuacher.com/FootballAnalysis-xG-COVIDHome/
 
 By combining reproducibility with replication and introducing variability factors, this project not only validates the original findings but also extends their scope to new contexts. The results provide valuable insights into the dynamics of home advantage, offering a deeper understanding of how external factors like crowd absence can alter the competitive balance in football.
 
@@ -43,14 +43,14 @@ By combining reproducibility with replication and introducing variability factor
     
     HTML outputs will be available in the `notebooks` directory.
 
-  - Open `notebooks/Reproduce.ipynb` and `notebooks/Replicate.ipynb` to execute the analysis step-by-step. Don't forget to verify that the versions of the dependencies on your local machine match the ones specified in `requirments.txt` file.
+  - Open `notebooks/Reproduce.ipynb` and `notebooks/Replicate.ipynb` to execute the analysis step-by-step. Don't forget to verify that the versions of the dependencies on your local machine match those specified in `requirments.txt` file.
 
 ## Reproducibility
     
 ### Encountered Issues and Improvements
 While the results ultimately matched, we faced several challenges due to missing documentation in the original study and differences in our initial computational setup:
 
-1. **Data Extraction Process:** The resource for the data was specified, but the methodology for extracting and processing the data was not detailed. This initially caused discrepancies in data representation during our replication attempt.
+1. **Data Extraction Process:** The resource for the data was specified, but the methodology for extracting and processing the data was not detailed. This initially caused discrepancies in data representation during our reproduction attempt.
 2. **Lack of Environmental Specifications:** The study did not specify the versions of software, libraries, or tools used. Differences in versions, particularly SciPy, resulted in variations in p-values and statistical test outputs in our early attempts. The original study employed Wilcoxon and Mann-Whitney U tests with `alternative='less'`, while our initial setup defaulted to `alternative='two-sided'`. This conflict led to doubled p-values and initially misaligned results.
 
 **Adjustments to Match Methodology:** To address these issues, we contacted the original author, who provided clarification on the data extraction process and the computational environment. We subsequently downgraded both SciPy and Python versions to match their setup, allowing us to replicate their statistical configuration. This adjustment ensured comparability in p-value interpretation and consistency with the original methodology.
@@ -59,7 +59,7 @@ Despite these numerical differences, the key findings remained consistent: **hom
 
 ### Is the Original Study Reproducible?
 
-The original study is **reproducible**, as our replicated analysis produced identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were fully confirmed.
+The original study is **reproducible**, as our reproduced analysis produced identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were fully confirmed.
 
 The original study analyzed the difference in points gained at home and away across multiple leagues and seasons, highlighting a largely positive home advantage for non-COVID seasons. Four key analyses were performed, which were successfully reproduced in this study with exact results:
 
@@ -81,7 +81,7 @@ The original study analyzed the difference in points gained at home and away acr
 
 **Seasonal Comparison Within Each League:** Mann-Whitney U tests were conducted to evaluate differences between seasons for each league. These tests focused on actual results at home and xPoints at home, capturing how home performance varied across seasons and highlighting the impact of the COVID-19 pandemic on home advantage.
 
-The replication successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
+The reproduction successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
 
 ## Replicability
 
@@ -90,7 +90,7 @@ The replication successfully reproduced the results of the original study, confi
   | Variability Factor | Possible Values     | Relevance                                   |
   |--------------------|---------------------|--------------------------------------------|
   | **Statistical Tests for Assessing Differences Between Home and Away Matches** | [Wilcoxon, Paired t-Test] | Different statistical tests highlight diverse characteristics of the data, impacting p-values and interpretations. |
-  | **Data Inclusion:** Post-COVID Data	| [2017–2020, 2017–2023] | Including post-COVID data (2020–2023) assesses whether home advantage returned to pre-COVID levels. |
+  | **Data Inclusion:** Post-COVID Data	| [2014–2020, 2014–2023] | Including post-COVID data (2020–2023) assesses whether home advantage returned to pre-COVID levels. |
   | **League Selection:** Champions League | 	[Domestic Leagues, Champions League] | Adding the Champions League introduces better teams, higher stakes, and a broader dataset, testing generalizability. |
 
 - **Constraints Across Factors**:  
@@ -99,7 +99,17 @@ The replication successfully reproduced the results of the original study, confi
 
 ### Presentation and Analysis of Results 
 #### Changing Statistical Tests for Assessing Differences Between Home and Away Matches
-In the given scenario, the Wilcoxon Signed-Rank test was used because it is a non-parametric test, ideal for situations where data may not follow a normal distribution. For the use of p-values, they quantified the evidence against the null hypothesis (e.g., no difference between home and away performance) and small p-values (e.g., <0.05) indicated statistically significant differences, suggesting that observed results are unlikely due to random chance.
+In the original study, the Wilcoxon Signed-Rank test was used because it is a non-parametric test, ideal for situations where data may not follow a normal distribution. For the use of p-values, they quantified the evidence against the null hypothesis (e.g., no difference between home and away performance) and small p-values (e.g., <0.05) indicated statistically significant differences, suggesting that observed results are unlikely due to random chance.
+
+In our replication study, we opted to use the paired t-test instead of the Wilcoxon Signed-Rank test. The paired t-test is a parametric test that assumes data follows a normal distribution and is used to compare two related groups. This change was made to assess whether the choice of statistical test would alter the conclusions.
+
+<div align="center">
+  <img src="analysis-results/paired-t-test.png" alt="Statistical Analysis Using Paired t-Test" title="Statistical Analysis Using Paired t-Test" width="500">
+</div>
+
+Our results confirmed that the differences between home and away performances remained significant in the pre-COVID years under the paired t-test, supporting the findings of the original study. However, during during the COVID season, when matches were held without fans due to the COVID-19 pandemic, the paired t-test showed no statistically significant difference in performance between home and away matches.
+
+This lack of significant difference during the COVID season reinforces the hypothesis that home advantage is influenced by external factors, such as crowd support. The results underline that changes in statistical methodology (shifting from non-parametric to parametric tests) did not fundamentally alter the conclusions but provided additional confidence in the robustness of the observed trends.
 
 #### Adding Post-COVID Data (2021-2023)
 In this replicability analysis, we aimed to assess the impact of the post-COVID seasons (2021 onward) as a potential variability factor in understanding home advantage in football. The COVID-19 pandemic created a unique natural experiment in sports, where matches were played in empty stadiums, effectively removing one of the critical elements of home advantage: *crowd support*. This provided a rare opportunity to isolate the influence of environmental and psychological factors on team performance.
@@ -109,6 +119,7 @@ However, with the return of fans to stadiums in subsequent seasons, an important
 We started by comparing the difference between home and away performance across multiple leagues and seasons, focusing on two metrics:
 1. **DIFF_POINTS_HOMEAWAY:** The difference in points gained at home versus away for each season and league.
 2. **DIFF_XPOINTS_HOMEAWAY:** The difference in expected points (xPoints) gained at home versus away for each season and league.
+
 <div align="center">
   <img src="analysis-results/home-away-postcovid.png" alt="Home vs. Away Points Results with Post-COVID Data" title="Home vs. Away Points Results with Post-COVID Data" width="200">
 </div>
@@ -176,5 +187,11 @@ Expanding the analysis to include the Champions League, a competition characteri
 These findings **confirm that the original author was correct in their conclusions about the impact of COVID-19 on home advantage**. The replication study has shown that the observed changes during the pandemic were not random anomalies but rather systematic shifts caused by the unique conditions of that period. By replicating and extending the analysis, we have further solidified the understanding that crowd presence is a cornerstone of home advantage, affecting not just the psychology of players and referees but also the broader dynamics of competitive football.
 
 ## Conclusion
-- Recap findings from the reproducibility and replicability sections.
-- Discuss limitations of your
+
+In this project, we have explored the impact of the COVID-19 pandemic on home advantage in football, focusing on the reproducibility and replicability of the original study conducted by Mathieu Acher. Our findings confirm that home advantage was significantly altered during the pandemic when matches were played in empty stadiums. By replicating and extending the analysis with additional variability factors, we validated the original conclusions while providing a deeper understanding of how the absence of crowds affected competitive balance.
+
+The reproducibility section of the study demonstrated that the original results could be reliably reproduced under consistent conditions using the provided datasets, software, and methodology. The replication aspect involved testing the model in various new contexts and highlighted the robustness of the conclusions even with different settings or match data. These results reinforce the hypothesis that crowd absence had a substantial effect on home advantage, leading to a reduced or even reversed effect in some cases.
+
+However, there are several limitations to this study. First, the scope of our analysis was limited to specific leagues and countries, and results may differ in other regions or competitions. Additionally, external factors such as team performance changes due to the pandemic (e.g., different training conditions, player health, or travel restrictions) may have also influenced the outcomes but were not fully accounted for in the analysis. Moreover, the reliance on historical data introduces potential biases and the challenge of accurately modeling every variable that could affect match results.
+
+Despite these limitations, this project offers valuable insights into how the dynamics of home advantage can shift when key external factors, such as crowd support, are removed.
