@@ -3,7 +3,6 @@ Ezgi OZEL - Alp JAKOP
 5 INFO
 
 # TODO
-- replace evolution-mean-points.jpg
 - add photos for statistical analyses parts (reproduce)
 - solve scipy version problem
 
@@ -73,7 +72,7 @@ The original study analyzed the difference in points gained at home and away acr
 **Evolution of Mean Points per Match:** The mean points gained per match for home and away teams were plotted across seasons from 2014 to 2020, illustrating the steady trend of home advantage and its disruption during COVID seasons.
 
 <div align="center">
-  <img src="analysis-results/evolution-mean-points.jpg" alt="Evolution of Mean Points per Match" title="Evolution of Mean Points per Match" width="500">
+  <img src="analysis-results/evolution-mean-points.png" alt="Evolution of Mean Points per Match" title="Evolution of Mean Points per Match" width="500">
 </div>
 
 
@@ -131,7 +130,7 @@ Following the original analysis, we decided to use charts to illustrate the evol
 2. **Expected Points (xPoints):** The model-predicted mean points based on performance data for home (xPoints) and away (xPointsAway) matches.
 
 <div align="center">
-  <img src="analysis-results/home-away-charts-postcovid.jpg" alt="Evolution of Mean Points per Match with Post-COVID Data" title="Evolution of Mean Points per Match with Post-COVID Data" width="500">
+  <img src="analysis-results/home-away-charts-postcovid.png" alt="Evolution of Mean Points per Match with Post-COVID Data" title="Evolution of Mean Points per Match with Post-COVID Data" width="500">
 </div>
 
 Across all leagues, the absence of crowds during the COVID season significantly reduced or nullified home advantage. Home teams scored fewer points, while away teams improved, highlighting the importance of crowd support and environmental factors in football dynamics. Post-COVID, most leagues show a partial recovery in home advantage with the return of crowds, but only the English Premier League appears to have fully regained its pre-COVID dynamics. Other leagues, like Ligue 1, Bundesliga, and Serie A, show a lasting reduction in the home-field advantage, suggesting a new normal where the gap between home and away performances is narrower than before.
