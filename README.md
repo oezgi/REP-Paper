@@ -3,7 +3,7 @@ Ezgi OZEL - Alp JAKOP
 5 INFO
 
 # TODO
-- high quality photos
+- replace evolution-mean-points.jpg
 - add photos for statistical analyses parts (reproduce)
 - solve scipy version problem
 
