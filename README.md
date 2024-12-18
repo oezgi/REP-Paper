@@ -82,7 +82,7 @@ The original study analyzed the difference in points gained at home and away acr
   <img src="analysis-results/home-away-leagues.png" alt="Statistical Analysis for Each League Using Mann-Whitney U" title="Statistical Analysis for Each League Using Mann-Whitney U" width="500">
 </div>
 
-The reproduction successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
+Even though the reproduction didn't work on the Wilcoxon test, for the other three tests, we successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
 
 ## Replicability
 
