@@ -2,10 +2,6 @@
 Ezgi OZEL - Alp JAKOP  
 5 INFO
 
-# TODO
-- add photos for statistical analyses parts (reproduce)
-- solve scipy version problem
-
 ## Introduction
 
 This analysis focuses on exploring the concept of home advantage in football and how it was impacted during the COVID-19 pandemic. Home advantage has long been a significant topic in sports science, with research attributing it to factors such as crowd support, travel fatigue, and referee bias. The COVID-19 pandemic provided a unique natural experiment, as matches were played in empty stadiums during 2019–2021, removing the influence of crowds.
@@ -68,17 +64,23 @@ The original study analyzed the difference in points gained at home and away acr
   <img src="analysis-results/home-away-points.png" alt="Home vs. Away Points Results" title="Home vs. Away Points Results" width="200">
 </div>
 
-
 **Evolution of Mean Points per Match:** The mean points gained per match for home and away teams were plotted across seasons from 2014 to 2020, illustrating the steady trend of home advantage and its disruption during COVID seasons.
 
 <div align="center">
   <img src="analysis-results/evolution-mean-points.png" alt="Evolution of Mean Points per Match" title="Evolution of Mean Points per Match" width="500">
 </div>
 
-
 **Comparison Across All Leagues and Seasons:** Wilcoxon Signed-Rank tests were applied to assess the differences between home and away matches for points, xPoints, and xG across all leagues and seasons. Effect sizes were calculated using Cohen’s d to quantify the magnitude of these differences. The results consistently demonstrated a significant home advantage in non-COVID seasons, even though the numerical results didn't match the original paper.
 
+<div align="center">
+  <img src="analysis-results/stats.png" alt="Statistical Analysis Using Wilcoxon" title="Statistical Analysis Using Wilcoxon" width="500">
+</div>
+
 **Seasonal Comparison Within Each League:** Mann-Whitney U tests were conducted to evaluate differences between seasons for each league. These tests focused on actual results at home and xPoints at home, capturing how home performance varied across seasons and highlighting the impact of the COVID-19 pandemic on home advantage.
+
+<div align="center">
+  <img src="analysis-results/home-away-leagues.png" alt="Statistical Analysis for Each League Using Mann-Whitney U" title="Statistical Analysis for Each League Using Mann-Whitney U" width="500">
+</div>
 
 The reproduction successfully reproduced the results of the original study, confirming its findings. These consistent outcomes validate the robustness of the original analysis and demonstrate the reproducibility of its conclusions regarding the impact of the COVID-19 pandemic on home advantage in football.
 
