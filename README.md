@@ -56,7 +56,7 @@ Despite these numerical differences in the Wilcoxon test, the key findings remai
 
 The original study is partly **reproducible**, as our reproduced analysis produced nearly identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were confirmed.
 
-The original study analyzed the difference in points gained at home and away across multiple leagues and seasons, highlighting a largely positive home advantage for non-COVID seasons. Four key analyses were performed, which were successfully reproduced in this study with exact results:
+The original study analyzed the difference in points gained at home and away across multiple leagues and seasons, highlighting a largely positive home advantage for non-COVID seasons. Four key analyses were performed, which were nearly successfully reproduced in this study :
 
 **Home vs. Away Points:** Differences between points gained at home and away were assessed. The results consistently showed a significant positive home advantage for all leagues in non-COVID seasons.
 
