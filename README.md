@@ -47,18 +47,18 @@ By combining reproducibility with replication and introducing variability factor
 ## Reproducibility
     
 ### Encountered Issues and Improvements
-While the results ultimately matched, we faced several challenges due to missing documentation in the original study and differences in our initial computational setup:
+While the results ultimately matched for certain analyses, we faced several challenges due to missing documentation in the original study and differences in our initial computational setup:
 
 1. **Data Extraction Process:** The resource for the data was specified, but the methodology for extracting and processing the data was not detailed. This initially caused discrepancies in data representation during our reproduction attempt.
-2. **Lack of Environmental Specifications:** The study did not specify the versions of software, libraries, or tools used. Differences in versions, particularly SciPy, resulted in variations in p-values and statistical test outputs in our early attempts. The original study employed Wilcoxon and Mann-Whitney U tests with `alternative='less'`, while our initial setup defaulted to `alternative='two-sided'`. This conflict led to doubled p-values and initially misaligned results.
+2. **Lack of Environmental Specifications:** The study did not specify the versions of software, libraries, or tools used. Differences in versions, particularly SciPy, resulted in variations in p-values and statistical test outputs in our early attempts for both the Wilcoxon Signed-Rank test and Mann-Whitney U test. This conflict led to doubled p-values for the Mann-Whitney U test and initially misaligned results for both tests.
 
-**Adjustments to Match Methodology:** To address these issues, we contacted the original author, who provided clarification on the data extraction process and the computational environment. We subsequently downgraded both SciPy and Python versions to match their setup, allowing us to replicate their statistical configuration. This adjustment ensured comparability in p-value interpretation and consistency with the original methodology.
+**Adjustments to Match Methodology:** To address these issues, we contacted the original author, who provided clarification on the data extraction process and the computational environment. We subsequently downgraded both SciPy and Python versions to match their setup, allowing us to replicate their statistical configuration. While we successfully matched Mann-Whitney U results by reverting to the correct version of SciPy, the issues with the Wilcoxon Signed-Rank test persisted.
 
-Despite these numerical differences, the key findings remained consistent: **home advantage significantly diminished during COVID-19 when matches were played without crowds**. This challenge underscored the importance of documenting software versions and methodological details in reproducing studies. It also illustrated the robustness of the original findings, as they held true even when tested with different software configurations.
+Despite these numerical differences in the Wilcoxon test, the key findings remained consistent: **home advantage significantly diminished during COVID-19 when matches were played without crowds**. This challenge underscored the importance of documenting software versions and methodological details in reproducing studies. It also illustrated the robustness of the original findings, as they held true even when tested with different software configurations.
 
 ### Is the Original Study Reproducible?
 
-The original study is **reproducible**, as our reproduced analysis produced identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were fully confirmed.
+The original study is partly **reproducible**, as our reproduced analysis produced nearly identical results once key methodological details were clarified. The study's findings regarding the significant reduction in home advantage during the COVID-19 pandemic were confirmed.
 
 The original study analyzed the difference in points gained at home and away across multiple leagues and seasons, highlighting a largely positive home advantage for non-COVID seasons. Four key analyses were performed, which were successfully reproduced in this study with exact results:
 
@@ -76,7 +76,7 @@ The original study analyzed the difference in points gained at home and away acr
 </div>
 
 
-**Comparison Across All Leagues and Seasons:** Wilcoxon Signed-Rank tests were applied to assess the differences between home and away matches for points, xPoints, and xG across all leagues and seasons. Effect sizes were calculated using Cohen’s d to quantify the magnitude of these differences. The results consistently demonstrated a significant home advantage in non-COVID seasons.
+**Comparison Across All Leagues and Seasons:** Wilcoxon Signed-Rank tests were applied to assess the differences between home and away matches for points, xPoints, and xG across all leagues and seasons. Effect sizes were calculated using Cohen’s d to quantify the magnitude of these differences. The results consistently demonstrated a significant home advantage in non-COVID seasons, even though the numerical results didn't match the original paper.
 
 **Seasonal Comparison Within Each League:** Mann-Whitney U tests were conducted to evaluate differences between seasons for each league. These tests focused on actual results at home and xPoints at home, capturing how home performance varied across seasons and highlighting the impact of the COVID-19 pandemic on home advantage.
 
